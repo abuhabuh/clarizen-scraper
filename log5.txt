@@ -1,0 +1,2694 @@
+john:arm64:clarizen-scraper/$ python3 clarizen_scraper.py
+-------------------------
+~marketing scraper start~
+-------------------------
+skipping task: 10006975425
+skipping task: 10008827521
+skipping task: 10013435201
+skipping task: 10013906817
+skipping task: 10014363329
+skipping task: 10015340289
+skipping task: 10023773761
+skipping task: 10030377537
+skipping task: 10030490689
+skipping task: 10030502849
+skipping task: 10030516545
+skipping task: 10031401281
+skipping task: 10041091393
+skipping task: 10053834113
+skipping task: 10053835073
+skipping task: 10053852417
+skipping task: 10054313473
+skipping task: 10056750145
+skipping task: 10057558785
+skipping task: 10057756929
+skipping task: 10057897665
+skipping task: 10062740993
+skipping task: 10082111105
+skipping task: 10084093633
+skipping task: 10084333185
+skipping task: 10092137857
+skipping task: 10117349825
+skipping task: 10124945985
+skipping task: 10125611009
+skipping task: 10125760449
+skipping task: 10125818177
+skipping task: 10131798529
+skipping task: 10132458945
+skipping task: 10136602945
+skipping task: 10142795393
+skipping task: 10156220417
+skipping task: 10158636929
+skipping task: 10161424705
+skipping task: 10163176129
+skipping task: 10167031041
+skipping task: 10168561921
+skipping task: 10170196545
+skipping task: 10172941953
+skipping task: 10174583489
+skipping task: 10175813441
+skipping task: 10185557313
+skipping task: 10185560193
+skipping task: 10186487873
+skipping task: 10191101697
+skipping task: 10204534529
+skipping task: 10211773505
+skipping task: 10214380865
+skipping task: 10216602881
+skipping task: 10217068097
+skipping task: 10253419009
+skipping task: 10262868737
+skipping task: 10272661761
+skipping task: 10272985665
+skipping task: 10287008577
+skipping task: 10290933185
+skipping task: 10293591553
+skipping task: 10297546177
+skipping task: 10297546433
+skipping task: 10301052801
+skipping task: 10303537665
+skipping task: 10306374529
+skipping task: 10306472769
+skipping task: 10308260097
+skipping task: 10319781569
+skipping task: 10331490305
+skipping task: 10331603265
+skipping task: 10331603713
+skipping task: 10335145921
+skipping task: 10335172225
+skipping task: 10335240001
+skipping task: 10345198977
+skipping task: 10359952705
+skipping task: 10361235649
+skipping task: 10361889985
+skipping task: 10364813633
+skipping task: 10366690113
+skipping task: 10368124865
+skipping task: 10369495873
+skipping task: 10369496513
+skipping task: 10373289665
+skipping task: 10376457537
+skipping task: 10383206977
+skipping task: 10386442817
+skipping task: 10387628161
+skipping task: 10390841921
+skipping task: 10393524225
+skipping task: 10394666369
+skipping task: 10394792321
+skipping task: 10396192897
+skipping task: 10398434497
+skipping task: 10400531585
+skipping task: 10414000001
+skipping task: 10426367041
+skipping task: 10427253185
+skipping task: 10427336321
+skipping task: 10432042625
+skipping task: 10432478401
+skipping task: 10432517057
+skipping task: 10440231425
+skipping task: 10452085057
+skipping task: 10457433921
+skipping task: 10465577089
+skipping task: 10465600385
+skipping task: 10471406209
+skipping task: 10472832641
+skipping task: 10475616449
+skipping task: 10484203329
+skipping task: 10485609473
+skipping task: 10486164801
+skipping task: 10487878529
+skipping task: 10488194945
+skipping task: 10500507393
+skipping task: 10501935937
+skipping task: 10506171201
+skipping task: 10510350977
+skipping task: 10511103233
+skipping task: 10514797185
+skipping task: 10517445121
+skipping task: 10523806529
+skipping task: 10528403521
+skipping task: 10550614593
+skipping task: 10561226113
+skipping task: 10580009217
+skipping task: 10586145665
+skipping task: 10588542081
+skipping task: 10595728065
+skipping task: 10596583617
+skipping task: 10600926529
+skipping task: 10603452737
+skipping task: 10604363329
+skipping task: 10608208193
+skipping task: 10611888641
+skipping task: 10625221569
+skipping task: 10628083713
+skipping task: 10629830465
+skipping task: 10631469185
+skipping task: 10633845377
+skipping task: 10640908353
+skipping task: 10643518017
+skipping task: 10654208257
+skipping task: 10654789377
+skipping task: 10655706689
+skipping task: 10655962945
+skipping task: 10660661569
+skipping task: 10663881601
+skipping task: 10667201537
+skipping task: 10670390721
+skipping task: 10670421185
+skipping task: 10688937409
+skipping task: 10689986241
+skipping task: 10694151425
+skipping task: 10697472641
+skipping task: 10701918529
+skipping task: 10703762433
+skipping task: 10705303489
+skipping task: 10705702017
+skipping task: 10719131137
+skipping task: 10727430081
+skipping task: 10739103169
+skipping task: 10752937729
+skipping task: 10762504321
+skipping task: 10768427841
+skipping task: 10768933953
+skipping task: 10776786689
+skipping task: 10779791681
+skipping task: 10780382977
+skipping task: 10786866817
+skipping task: 10788596353
+skipping task: 10793002305
+skipping task: 10797467329
+skipping task: 10797553217
+skipping task: 10808067009
+skipping task: 10810066241
+skipping task: 10811582145
+skipping task: 10815872769
+skipping task: 10817876417
+skipping task: 10828927233
+skipping task: 10828952001
+skipping task: 10829192001
+skipping task: 10829710465
+skipping task: 10838456065
+skipping task: 10840217025
+skipping task: 10844878977
+skipping task: 10848222913
+skipping task: 10852900545
+skipping task: 10853884673
+skipping task: 10855646977
+skipping task: 10855658689
+skipping task: 10862437185
+skipping task: 10863939585
+skipping task: 10865997249
+skipping task: 10866341825
+skipping task: 10871772225
+skipping task: 10879293761
+skipping task: 10890815041
+skipping task: 10893874177
+skipping task: 10902894529
+skipping task: 10906648961
+skipping task: 10907904833
+skipping task: 10909514369
+skipping task: 10909562817
+skipping task: 10909669057
+skipping task: 10911828417
+skipping task: 10915925441
+skipping task: 10916691265
+skipping task: 10923571969
+skipping task: 10923572097
+skipping task: 10928130497
+skipping task: 10928217985
+skipping task: 10934380353
+skipping task: 10934385537
+skipping task: 10935878913
+skipping task: 10937626753
+skipping task: 10940424449
+skipping task: 10940470785
+skipping task: 10940648513
+skipping task: 10944169729
+skipping task: 10945221761
+skipping task: 10945289281
+skipping task: 10945306241
+skipping task: 10945464321
+skipping task: 10946904641
+skipping task: 10958823873
+skipping task: 10959575041
+skipping task: 10959942849
+skipping task: 10964410433
+skipping task: 10964453249
+skipping task: 10965265025
+skipping task: 10965491841
+skipping task: 10969835073
+skipping task: 10970032577
+skipping task: 10970736321
+skipping task: 10972778625
+skipping task: 10972792449
+skipping task: 10976374849
+skipping task: 10976615937
+skipping task: 10976617921
+skipping task: 10978283265
+skipping task: 10978301953
+skipping task: 10988221441
+skipping task: 10988420865
+skipping task: 10989843649
+skipping task: 11000258177
+skipping task: 11000259009
+skipping task: 11000482305
+skipping task: 11001107713
+skipping task: 11003950465
+skipping task: 11007234881
+skipping task: 11027840577
+skipping task: 11028017409
+skipping task: 11028051329
+skipping task: 11031276737
+skipping task: 11032269761
+skipping task: 11037988353
+skipping task: 11040047681
+skipping task: 11040089729
+skipping task: 11040154113
+skipping task: 11040526657
+skipping task: 11044419457
+skipping task: 11048675393
+skipping task: 11048934657
+skipping task: 11052000321
+skipping task: 11054680641
+skipping task: 11055971585
+skipping task: 11058170113
+skipping task: 11073132225
+skipping task: 11074144833
+skipping task: 11074325505
+skipping task: 11074336065
+skipping task: 11074779585
+skipping task: 11076387073
+skipping task: 11079630977
+skipping task: 11082395905
+skipping task: 11082476289
+skipping task: 11083296897
+skipping task: 11083511361
+skipping task: 11088221633
+skipping task: 11088696001
+skipping task: 11094036097
+skipping task: 11105654913
+skipping task: 11109233729
+skipping task: 11114885953
+skipping task: 11114903425
+skipping task: 11114926081
+skipping task: 11115033729
+skipping task: 11115956801
+skipping task: 11117932033
+skipping task: 11119534017
+skipping task: 11129652289
+skipping task: 11132941889
+skipping task: 11134523777
+skipping task: 11134593409
+skipping task: 11136775681
+skipping task: 11139637889
+skipping task: 11139669185
+skipping task: 11143469377
+skipping task: 11151362497
+skipping task: 11151393537
+skipping task: 11151717697
+skipping task: 11155488001
+skipping task: 11161078081
+skipping task: 11163713729
+skipping task: 11172029953
+skipping task: 11172225729
+skipping task: 11178135553
+skipping task: 11184268865
+skipping task: 11188078657
+skipping task: 11194274689
+skipping task: 11198212993
+skipping task: 11201156545
+skipping task: 11207127937
+skipping task: 11207149057
+skipping task: 11208620417
+skipping task: 11209785345
+skipping task: 11213921985
+skipping task: 11221637377
+skipping task: 11221787073
+skipping task: 11225206017
+skipping task: 11226713921
+skipping task: 11228460929
+skipping task: 11235308737
+skipping task: 11256934977
+skipping task: 11269452993
+skipping task: 11270923969
+skipping task: 11271372353
+skipping task: 11272279809
+skipping task: 11272302849
+skipping task: 11278675265
+skipping task: 11279634241
+skipping task: 11280001281
+skipping task: 11281935489
+skipping task: 11282146625
+skipping task: 11282175041
+skipping task: 11282365889
+skipping task: 11288933249
+skipping task: 11290973505
+skipping task: 11292046593
+skipping task: 11298370497
+skipping task: 11301031169
+skipping task: 11301465025
+skipping task: 11310136065
+skipping task: 11313812545
+skipping task: 11313883713
+skipping task: 11315021697
+skipping task: 11320790657
+skipping task: 11320830017
+skipping task: 11322153921
+skipping task: 11322443585
+skipping task: 11324101313
+skipping task: 11324101569
+skipping task: 11326659585
+skipping task: 11327374721
+skipping task: 11332119745
+skipping task: 11334932737
+skipping task: 11345165505
+skipping task: 11352985153
+skipping task: 11353661057
+skipping task: 11353949121
+skipping task: 11353983361
+skipping task: 11354018689
+skipping task: 11354034369
+skipping task: 11357534849
+skipping task: 11357906305
+skipping task: 11358717569
+skipping task: 11358832001
+skipping task: 11359514561
+skipping task: 11364663041
+skipping task: 11365459905
+skipping task: 11365990785
+skipping task: 11366181953
+skipping task: 11371157825
+skipping task: 11371301185
+skipping task: 11372495745
+skipping task: 11376733761
+skipping task: 11378935361
+skipping task: 11381080513
+skipping task: 11383340033
+skipping task: 11386995969
+skipping task: 11387985665
+skipping task: 11388004545
+skipping task: 11391481793
+skipping task: 11392643521
+skipping task: 11393981825
+skipping task: 11401060161
+skipping task: 11403023425
+skipping task: 11403059841
+skipping task: 11404576961
+skipping task: 11411345793
+skipping task: 11413513025
+skipping task: 11413515265
+skipping task: 11413822913
+skipping task: 11415596033
+skipping task: 11416116993
+skipping task: 11417417857
+skipping task: 11417439681
+skipping task: 11421608385
+skipping task: 11424112321
+skipping task: 11425681345
+skipping task: 11427150657
+skipping task: 11427576065
+skipping task: 11429624705
+skipping task: 11429865537
+skipping task: 11431121665
+skipping task: 11431718785
+skipping task: 11432058433
+skipping task: 11432944769
+skipping task: 11438811329
+skipping task: 11444447681
+skipping task: 11444883521
+skipping task: 11448587457
+skipping task: 11456082497
+skipping task: 11463923265
+skipping task: 11470462849
+skipping task: 11471602369
+skipping task: 11474352769
+skipping task: 11474958337
+skipping task: 11477820097
+skipping task: 11482500737
+skipping task: 11483078337
+skipping task: 11483128513
+skipping task: 11483470337
+skipping task: 11484173697
+skipping task: 11484758785
+skipping task: 11485138817
+skipping task: 11485157697
+skipping task: 11485163073
+skipping task: 11485331201
+skipping task: 11489487489
+skipping task: 11492556993
+skipping task: 11495475841
+skipping task: 11495721089
+skipping task: 11496349441
+skipping task: 11506441729
+skipping task: 11506634497
+skipping task: 11506719553
+skipping task: 11506723841
+skipping task: 11509051073
+skipping task: 11509731073
+skipping task: 11516022529
+skipping task: 11516277441
+skipping task: 11518798465
+skipping task: 11519339201
+skipping task: 11529061057
+skipping task: 11531511937
+skipping task: 11550906945
+skipping task: 11556034049
+skipping task: 11557893569
+skipping task: 11559480321
+skipping task: 11559630337
+skipping task: 11564862977
+skipping task: 11565020353
+skipping task: 11565064705
+skipping task: 11565512833
+skipping task: 11567362945
+skipping task: 11571106945
+skipping task: 11573526401
+skipping task: 11582211585
+skipping task: 11587636801
+skipping task: 11593705281
+skipping task: 11602015041
+skipping task: 11602295937
+skipping task: 11607242689
+skipping task: 11611223809
+skipping task: 11612834369
+skipping task: 11615959297
+skipping task: 11617068033
+skipping task: 11621417665
+skipping task: 11622614081
+skipping task: 11632462209
+skipping task: 11645017089
+skipping task: 11645143425
+skipping task: 11645152257
+skipping task: 11646701697
+skipping task: 11650619009
+skipping task: 11654220033
+skipping task: 11654350273
+skipping task: 11663643905
+skipping task: 11673484097
+skipping task: 11680103169
+skipping task: 11681783617
+skipping task: 11682446465
+skipping task: 11687022849
+skipping task: 11688028225
+skipping task: 11688589249
+skipping task: 11693252225
+skipping task: 11707725697
+skipping task: 11708657153
+skipping task: 11708702209
+skipping task: 11711882433
+skipping task: 11713057537
+skipping task: 11713082241
+skipping task: 11723808897
+skipping task: 11724828225
+skipping task: 11728402049
+skipping task: 11729272257
+skipping task: 11729762497
+skipping task: 11729766081
+skipping task: 11741208513
+skipping task: 11744110593
+skipping task: 11744792449
+skipping task: 11746220673
+skipping task: 11746599041
+skipping task: 11746668161
+skipping task: 11747018753
+skipping task: 11754505793
+skipping task: 11755051713
+skipping task: 11756831489
+skipping task: 11769521921
+skipping task: 11779448193
+skipping task: 11782077377
+skipping task: 11786802177
+
+Processing files for approved task: 11789198401
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11789198401/ACH Fraud Block Emails.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11789198401/ACH Fraud Block Emails—Redlined.docx
+
+Processing files for approved task: 11795360193
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11795360193/SIMM Payment Error - Write Up & Comms.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11795360193/SIMM Payment Error - Write Up & Comms- v2.docx
+
+Processing files for approved task: 11799977025
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11799977025/Revamped design for transaction modals.pdf
+
+Processing files for approved task: 11800284289
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11800284289/Brand Logos [Oct 31 2019].pdf
+
+Processing files for approved task: 11800646145
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11800646145/Past Due User Journey in App.pdf
+
+Processing files for approved task: 11801372033
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11801372033/Screen Shot 2019-10-31 at 3.09.18 PM.png
+
+Processing files for approved task: 11809926657
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11809926657/Petal-Turbo-Nov2019-A (1).pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11809926657/Petal-Turbo-Nov2019-B (1).pdf
+
+Processing files for approved task: 11814635009
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11816258305
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11818834817
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11821344961
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11848317825
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11848335361
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11853130049
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11857177217
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11861821121
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11861961025
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11866289217
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11869299265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11869615361
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11872605953
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11873941633
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 13 ***
+    done with fetch
+
+Processing files for approved task: 11880030145
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11880218625
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11880374017
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11880391617
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11880435841
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11880438785
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11880508993
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11887977281
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11891204417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11891277697
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11893679553
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11893764289
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11899542209
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11900717377
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11901288385
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11903061185
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11924359745
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11925350529
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11945717505
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11954053953
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11954211905
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11955586049
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11957728065
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11958173057
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f11958500993
+
+Skipping unapproved task: f11966153473
+
+Processing files for approved task: 11973342529
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11974071105
+
+Processing files for approved task: 11974456321
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11976242305
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11980072833
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11983790017
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11983945217
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11989168513
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 11989992257
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11990311041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11991360001
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12003914305
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12003922753
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12013814337
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12015792705
+
+Processing files for approved task: 12019371521
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12020251649
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12022782145
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12024843585
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12029440769
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12060902913
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12061526465
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f12068513281
+
+Processing files for approved task: 12074039425
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12074170369
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12074362881
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12074783233
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12076564161
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12079479681
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12082526337
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12086302913
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12090874625
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12090902401
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12094645441
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12100759809
+
+Processing files for approved task: 12101408385
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12106135873
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12109562561
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12111816449
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12113807169
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 12127612417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12139516417
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f12140417473
+
+Processing files for approved task: 12144915265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12148750721
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12159405825
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12161189313
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 12172991873
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f12173129729
+
+Processing files for approved task: 12173495937
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12176197441
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12183045889
+
+Processing files for approved task: 12191642241
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12193971521
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12195485697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12196746881
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12197344321
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12197496577
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12197528641
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12197530753
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12197535617
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Skipping unapproved task: f12198578689
+
+Processing files for approved task: 12198670145
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12200999617
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12201078401
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12201095041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12201155393
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12202844225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12210049857
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12212507521
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12212925889
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 12214525377
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12223645121
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12225954113
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12226451905
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12230423873
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12242209025
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12242315393
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12243241857
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12243518977
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12265903425
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12273487489
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12283472065
+
+Processing files for approved task: 12301067521
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12301094017
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12301244801
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12301949057
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12301987265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12314211073
+-- num docs: 10
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 17 ***
+    done with fetch
+
+Processing files for approved task: 12324621889
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12325552897
+
+Processing files for approved task: 12325966337
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12326117313
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12328653633
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12328843009
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12345202177
+
+Processing files for approved task: 12353746113
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 12 ***
+    done with fetch
+
+Processing files for approved task: 12357831681
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12361322433
+
+Processing files for approved task: 12384289665
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12398248577
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12398362625
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12401169345
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12406018817
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12413210625
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12413673921
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12414098305
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12414169345
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12419304641
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12422882305
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12423358657
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12439875265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12444294145
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12447095169
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12447972225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12451536641
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12452678465
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 12456333441
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12456408257
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 12459253569
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12465983105
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12490332225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12496420673
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12514258369
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f12514781313
+
+Processing files for approved task: 12514964353
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12521064833
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12521307649
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12521374209
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12522815425
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12523070977
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12523395713
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12525283393
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12529025153
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12533022721
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12548060289
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12548333505
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12548373569
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12558103169
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12559865985
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12560266433
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f12562556097
+
+Processing files for approved task: 12562819393
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12568913601
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12579828993
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12581621825
+
+Processing files for approved task: 12586560513
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12589390593
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12597004801
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12601098817
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12601464897
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12601483649
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12608231233
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Skipping unapproved task: f12609255297
+
+Processing files for approved task: 12616438529
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12616978241
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12625345345
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12626197441
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12626207425
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12628019521
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 12629535233
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12631897601
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12632146113
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12637624385
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12648665857
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12649051265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12649986561
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12650560385
+
+Processing files for approved task: 12651187201
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12654463553
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12655835585
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12656093889
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12660728193
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12660808961
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12670983489
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12677488769
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12686435713
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12689236161
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12697414337
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12698724801
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12710410113
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12713389697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12718156225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12727848833
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12748368129
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12753224129
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12753267009
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12754157377
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12758100033
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12758151553
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12765130945
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12766687425
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12771380417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12771448769
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12771828609
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12780258177
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12782662081
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12796541377
+
+Processing files for approved task: 12799482305
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12804692097
+-- num docs: 8
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal - CCPA Rights Request Webform.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal CCPA Privacy Policy Insert.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal CCPA Privacy Policy Insert (Bank Comments).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal - CCPA Rights Request Webform (Bank Comments).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal CCPA Privacy Policy Insert (Petal clean 5.22.20).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal - CCPA Rights Request Webform (Petal clean 5.22.20).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal - CCPA Rights Request Webform (Petal redline 5.22.20).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12804692097/Petal CCPA Privacy Policy Insert (Petal redline 5.22.20) (1).docx
+
+Processing files for approved task: 12806859969
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12811657473
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f12813326081
+
+Processing files for approved task: 12813396609
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12814768513
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12820466881
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12824423169
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12829274049
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12829276161
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12829583169
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12835999873
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12836002625
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12838343937
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12838377089
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12838377089/CCPA Rights Request CSM (1).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/12838377089/CCPA Request Flow Chart (Petal 5.21.20).pdf
+
+Processing files for approved task: 12851048321
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12852583873
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12852911361
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12862511745
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12862761793
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12863322753
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12870223297
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 12881919105
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12887086593
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12892538625
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 12895954241
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12898351873
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12898363585
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12899180673
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12904504769
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12907767169
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12915463681
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 12916361153
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+Exception: 'NavigableString' object has no attribute 'div'
+skipping task: 9409411905
+skipping task: 9409715969
+skipping task: 9409975745
+skipping task: 9477333377
+skipping task: 9477457473
+skipping task: 9492589057
+skipping task: 9492920449
+skipping task: 9502552705
+skipping task: 9581820993
+skipping task: 9603700673
+skipping task: 9610636737
+skipping task: 9615700993
+skipping task: 9615987393
+skipping task: 9636460097
+skipping task: 9637975553
+skipping task: 9647504129
+skipping task: 9650658497
+skipping task: 9657719041
+skipping task: 9662093505
+skipping task: 9674554625
+skipping task: 9676852865
+skipping task: 9694281921
+skipping task: 9723753025
+skipping task: 9724066689
+skipping task: 9729901441
+skipping task: 9744453569
+skipping task: 9745386369
+skipping task: 9748494465
+skipping task: 9755705409
+skipping task: 9763321281
+skipping task: 9768718209
+skipping task: 9768806529
+skipping task: 9787382977
+skipping task: 9792935745
+skipping task: 9794796865
+skipping task: 9804071745
+skipping task: 9812873345
+skipping task: 9816071233
+skipping task: 9816315649
+skipping task: 9819833089
+skipping task: 9825419393
+skipping task: 9849258113
+skipping task: 9849908993
+skipping task: 9856810945
+skipping task: 9857719617
+skipping task: 9862837633
+skipping task: 9862837825
+skipping task: 9864713153
+skipping task: 9865462145
+skipping task: 9873974401
+skipping task: 9875347521
+skipping task: 9881423617
+skipping task: 9889141697
+skipping task: 9894952449
+skipping task: 9902061953
+skipping task: 9904768001
+skipping task: 9904988993
+skipping task: 9918254081
+skipping task: 9919991553
+skipping task: 9921405185
+skipping task: 9921508673
+skipping task: 9921509121
+skipping task: 9931289857
+skipping task: 9931472385
+skipping task: 9931473217
+skipping task: 9940666369
+skipping task: 9942520321
+skipping task: 9946100289
+skipping task: 9953115905
+skipping task: 9954129857
+skipping task: 9955553857
+skipping task: 9962113345
+skipping task: 9965922241
+skipping task: 9966677313
+skipping task: 9971877825
+skipping task: 9974262849
+skipping task: 9985839169
+*** fetching file group: num dls 0 ***
+    done with fetch
+**** Errored task ids: ['12931899905', '12939485057', '12955712513', '12964106305', '12968311617', '12972898497', '12984004417', '12986004545', '13000223681', '13013484481', '13032736449', '13036848129', '13041827713', '13044629889', '13080059969', '13084851457', '13085122625', '13085397569', '13095348737', '13099906689', '13102614721', '13104093761', '13107891009', '13115866561', '13120991745', '13124689153', '13129492609', '13145475265', '13149216705', '13149238977', '13153107201', '13153367681', '13154848001', '13158617857', '13158619265', '13200943297', '13212856065', '13216234625', '13219717953', '13222855233', '13222860033', '13222888961', '13223226497', '13223641857', '13223741441', '13227623425', '13268377153', '13285721601', '13316938945', '13317601217', '13318652033', '13324370497', '13325709569', '13331811713', '13333817921', '13334120321', '13334276353', '13350181569', '13354670273', '13354798017', '13358468097', '13372827073', '13373270977', '13393193857', '13401581569', '13403589057', '13409079233', '13409327041', '13415449857', '13421857409', '13431696001', '13431763969', '13431778177', '13431806721', '13431808833', '13431977281', '13434424897', '13435544961', '13471141377', '13488604609', '13494549249', '13509081921', '13511130881', '13514095297', '13519710593', '13520836033', '13526501569', '13529940033', '13543361793', '13544147585', '13550908801', '13562438145', '13563221633', '13563418433', '13563761153', '13563789057', '13563812609', '13579542081', '13579930625', '13581202817', '13581370497', '13585416449', '13587935681', '13593758529', '13601957249', '13603723073', '13604574657', '13612657793', '13620192897', '13620449089', '13620674177', '13623433153', '13623484801', '13623491265', '13623491841', '13636189441', '13655676865', '13680732737', '13680811073', '13682575489', '13682606337', '13683357889', '13687796993', '13689293121', '13692693761', '13699328001', '13704767297', '13715355969', '13715454849', '13724892417', '13734628865', '13734715137', '13735064193', '13735294529', '13736821889', '13758438145', '13783019265', '13784358273', '13791379073', '13791393921', '13795875329', '13815530177', '13817952961', '13831977665', '13839577025', '13846442625', '13846459073', '13846727553', '13846727809', '13846810817', '13850214785', '13852930753', '13853234049', '13867442561', '13879187265', '13880048705', '13880055937', '13880066561', '13883603265', '13883926145', '13884001729', '13896251265', '13896405377', '13929387201', '13936204737', '13936224257', '13936323393', '13938065153', '13939701249', '13945117761', '13946476289', '13961136193', '13962210945', '13980004161', '13998234433', '14005383745', '14008308353', '14008433985', '14009137473', '14012956289', '14014236929', '14015475841', '14023588673', '14026575745', '14029675009', '14033236929', '14033385089', '14047674049', '14047826433', '14062164033', '14063529153', '14064041793', '14069076161', '14091073537', '14102264769', '14110222785', '14110257025', '14110391361', '14110861249', '14114147969', '14115124161', '14116383425', '14116464897', '14122067585', '14126796929', '14138224769', '14138957697', '14140169729', '14140199105', '14140374785', '14141539649', '14151566337', '14155192065', '14155833665', '14156593793', '14156598721', '14167652481', '14170767937', '14170806849', '14170943361', '14177435201', '14179740609', '14200482305', '14218621185', '14225525441', '14231575745', '14234585409', '14242403521', '14269137601', '14270983233', '14272447169', '14277494785', '14277910721', '14290026817', '14294748673', '14304449281', '14326525313', '14330631617', '14336000577', '14337940481', '14338157953', '14341930625', '14342366593', '14342546561', '14343517377', '14376151937', '14386812417', '14388300929', '14389912513', '14397722753', '14399707585', '14402537857', '14402950209', '14403666625', '14404717633', '14409809025', '14413366273', '14415167041', '14467555137', '14483666177', '14538413377', '14635032193', '14635147649', '14650138881', '14676672833', '14727995073', '14729511745', '14732243521', '14733564161', '14744124609', '14744293377', '14744929473', '14745002945', '14751176897', '14753167297', '14753219521', '14753280705', '14753694593', '14774773569', '14790191937', '14799291713', '14799515649', '14804546433', '14807726273', '14807731969', '14815498561', '14816681025', '14819941313', '14820032577', '14820851841', '14821267457', '14826560769', '14831644097', '14833777729', '14838825537', '14846084737', '14850643713', '14866789953', '14866872449', '14880100993', '14897018881', '14901066689', '14903619777', '14903927553', '14906872129', '14908111361', '14912301121', '14913894849', '14919740737', '14926098817', '14937110401', '14937143809', '14948355393', '14961107457', '14961218945', '14962218689', '14965710145', '14970318017', '14975558913', '14999330305', '15001436545', '15028294721', '15029341505', '15030114177', '15042052673', '15042779137', '15043543105', '15046445377', '15049376641', '15063401729', '15065596865', '15070140417', '15075866241', '15076609665', '15077365633', '15091449025', '15094294849', '15099905793', '15104362113', '15108341633', '15108529537', '15110327105', '15133693313', '15135327745', '15138104257', '15145374081', '15150261185', '15151291713', '15151292737', '15151493057', '15159478593', '15161442305', '15161474945', '15163992897', '15165024385', '15166324161', '15167236929', '15168959937', '15169568513', '15174355393', '15184134657', '15185831745', '15191342465', '15191343041', '15193422785', '15197995329', '15202958529', '15203264001', '15204597121', '15208562113', '15212342209', '15213202049', '15214752705', '15216611585', '15216670657', '15218848065', '15222034241', '15222160513', '15222179009', '15222442241', '15231772929', '15236862785', '15246383937', '15257107201', '15258275265', '15259304065', '15259320513', '15259472513', '15259556545', '15265644865', '15271398145', '15272556481', '15282635265', '15312262401', '15314914945', '15338614657', '15340596289', '15345876545', '15352454913', '15353362305', '15360369345', '15360974977', '15396775297', '15397270273', '15403190529', '15403609729', '15422848001', '15432944897', '15440596801', '15443735105', '15446050561', '15446933697', '15454787649', '15461679681', '15461969025', '15472050241', '15472235265', '15473030465', '15478928129', '15492836801', '15505043393', '15529452609', '15556070401', '15562037185', '15562038273', '15563355841', '15572024577', '15582944129', '15584852097', '15585045185', '15586931585', '15591747713', '15593509441', '15597416577', '15598367233', '15603560001', '15605832641', '15609557889', '15621432001', '15622188289', '15623956609', '15628518529', '15633569345', '15640704513', '15640975809', '15644997249', '15645656193', '15660746945', '15665921921', '15689680577', '15691255233', '15701752001', '15705623745', '15708321537', '15737488193', '15744945345', '15745946113', '15759165377', '15759384897', '15759467457', '15777950401', '15777986305', '15787894593', '15799813761', '15812053377', '15812071297', '15812072065', '15813017729', '15816348673', '15823031681', '15824955521', '15826023809', '15834894273', '15837400385', '15837593729', '15837623105', '15838053505', '15845927297', '15849507969', '15849601601', '15849654401', '15849681857', '15849709761', '15849722433', '15849739841', '15850079361', '15852171201', '15879240705', '15883627393', '15886806209', '15891382721', '15892162241', '15897463489', '15898647617', '15899316609', '15903401153', '15903737921', '15907681665', '15909675521', '15915396225', '15917617729', '15917854081', '15917873793', '15917875777', '15921608961', '15922730497', '15922759105', '15935169601', '15937337665', '15941421889', '15941487745', '15942177281', '15945587521', '15948898497', '15953973057', '15970208577', '15973138881', '15985895233', '15986027201', '16008087489', '16018235969', '16018760321', '16024678145', '16026851137', '16030715073', '16034104513', '16043051713', '16050105089', '16054218433', '16059119617', '16070710337', '16102048833', '16107823937', '16121570881', '16121643969', '16121830913', '16135210177', '16143371585', '16143625537', '16147913793', '16152680513', '16165433985', '16165778177', '16165946561', '16166315457', '16172092993', '16204097345', '16205333953', '16211358593', '16211637185', '16213813377', '16242941761', '16244881409', '16246639233', '16247297857', '16248898561', '16271761985', '16272363009', '16288130689', '16306174465', '16311061825', '16318573121', '16324480513', '16328141889', '16329520321', '16348642753', '16364619649', '16364982849', '16366341441', '16395485697', '16403544065', '16445353601', '16459026689', '16459288065', '16466140929', '16504210241', '16511164033', '16511908993', '16518492609', '16532262273', '16538083777', '16543048001', '16543054849', '16580877697', '16581028417', '16612294145', '16615388929', '16616125249', '16629014849', '16650574145', '16650643841', '16654302785', '16655036929', '16656876673', '16659045057', '16694037697', '16706638145', '16716425793', '16721394881', '16734062721', '16734605377', '16753981825', '16774537025', '16790371969', '16790788289', '16796475201', '16822818433', '16838283521', '16839629377', '16856341889', '16861444033', '16878578177', '16881878337', '16881881153', '16898165377', '16899956801', '16937606913', '16938091777', '16943531137', '16957382465', '16966996609', '16970452929', '16972537857', '17017816321', '17017863681', '17026529217', '17037538561', '17038295617', '17041230273', '17051915073', '17086029953', '17090062849', '17098365441', '17100023553', '17116814401', '17130284993', '17151558657', '17151649537', '17160874497', '17161361345', '17192166849', '17199315137', '17203730049', '17218140865', '17219011521', '17247026049', '17250790017', '17267939585', '17282485569', '17310344705', '17311362625', '17325336129', '17326121729', '17335521729', '17340348225', '17346302977', '17355085697', '17380569025', '17381881025', '17382062849', '17392006913', '17445746241', '17453743425', '17466577153', '17466582337', '17473276929', '17476617665', '17477246145', '17521706497', '17521885441', '17544047041', '17545858497', '17557509185', '17561933505', '17570168705', '17573554625', '17573662337', '17576398145', '17588429633', '17595047425', '17597301633', '17597467073', '17601414209', '17601687041', '17615743745', '17616723265', '17618715777', '17620489345', '17621292673', '17623090113', '17634911297', '17656358273', '17669139393', '17691224385', '17729011073', '17752636993', '17762717889', '17763199297', '17766558273', '17794843073', '17798342209', '17804451329', '17824017281', '17834522753', '17840228993', '17845087105', '17856619585', '17866116417', '17866203329', '17866465985', '17888360897', '17890062081', '17901666049', '17910787905', '17912684609', '17920049217', '17957923649', '17984634625', '17991329217', '18005056641', '18014673089', '18015651393', '18015700801', '18045936705', '18057587393', '18057811649', '18071005313', '18088280449', '18088281409', '18101066625', '18104034945', '18128137281', '18128206465', '18128588545', '18128797697', '18139311745', '18139985537', '18151351489', '18161856257', '18169409857', '18174365121', '18193274689', '18226865921', '18234261313', '18259038081', '18259715329', '18259788737', '18259804417', '18264287233', '18278365057', '18290946625', '18293031553', '18296970433', '18302798081', '18313843521', '18318790273', '18323947905', '18325307393', '18330127553', '18335881665', '18338121153', '18365060289', '18389380673', '18390438209', '18390538049', '18406083393', '18409454657', '18452587905', '18453397377', '18453526273', '18458254145', '18470564609', '18479558401', '18482910849', '18553843457', '18555588289', '18555921665', '18562531521']
+john:arm64:clarizen-scraper/$
+

@@ -1,19 +1,4 @@
 """
-State of the script: Lots of cruft from 'porting' Paige's script
-
-No login. You have to manually login. Grab an XHR request.
-And get the 4 cookies that matter that are set from that request.
-Those cookies are set in the get_cookies() function as the initial
-set of cookies.
-Once that's updated, the script is ready to go.
-
-1. Script goes through static list of task ids (pre-fetched)
-2. For each task, check if it's approved
-3. If approved, fetch all files
-4. Once files gets above certain count, we download them
-
-
-
 """
 import pdb
 import os
@@ -35,11 +20,10 @@ import http_constants
 
 def get_cookies():
     cookies = {
-    'ASP.NET_SessionIdSV': '',
-    'CZAUTHSV': '',
-    'lock': '',
-    'amplitude_id_08bded3ca2135caa87f2b8626bcdced3clarizen.com': '',
-
+        'ASP.NET_SessionIdSV': '',
+        'CZAUTHSV': '',
+        'amplitude_id_08bded3ca2135caa87f2b8626bcdced3clarizen.com': '',
+        'lock': '',
     }
     cookies.update(http_constants.cookies)
     return cookies
@@ -168,12 +152,19 @@ def run_downloads(download_list):
 def filter_approved_only(all_tasks):
     print(f'*** check approved only ***')
 
+    print(f'all tasks: {all_tasks}')
     task_id_list = [t.split('.')[1] for t in all_tasks]
 
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=30) as executor:
         results = list(executor.map(is_task_approved, task_id_list))
 
-    print('    done with check')
+    tups = zip(results, task_id_list)
+    approved_ids = []
+    for t in tups:
+        if t[0]:
+            approved_ids.append(t[1])
+
+    return approved_ids
 
 
 def run_main():
@@ -192,10 +183,12 @@ def run_main():
 
 
     l = sorted(task_constants.ALL_TASKS)
+
+    """DEPRECATED
     approved_list = filter_approved_only(l)
     print(approved_list)
-
     return
+    """
 
     download_list = []
     errored_task_ids = []
@@ -236,7 +229,7 @@ def run_main():
                             'folder': folder,
                         })
             else:
-                print(f'Skipping unapproved task: f{task_id}')
+                print(f'Skipping unapproved task: {task_id}')
 
             if len(download_list) >= 8:
                 run_downloads(download_list)

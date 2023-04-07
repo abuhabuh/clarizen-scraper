@@ -1,0 +1,3019 @@
+john:arm64:clarizen-scraper/$ python3 clarizen_scraper.py
+-------------------------
+~marketing scraper start~
+-------------------------
+
+Processing files for approved task: 10006975425
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10006975425/Ads - 09102018.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10006975425/Revised Ads - 09102018.xlsx
+
+Skipping unapproved task: f10008827521
+
+Processing files for approved task: 10013435201
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10013435201/Revised Ads- 24092018.xlsx
+
+Skipping unapproved task: f10013906817
+
+Processing files for approved task: 10014363329
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10014363329/Carousel Ad Units.xlsx
+
+Processing files for approved task: 10015340289
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10015340289/Credit Sesame Email.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10015340289/v2 Credit Sesame Email.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10015340289/v3 Credit Sesame Email.png
+
+Processing files for approved task: 10023773761
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10023773761/Will Petal use my credit score in my application_.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10023773761/Will Petal use my credit score in my application_ web edits.docx
+
+Processing files for approved task: 10030377537
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030377537/building-credit_legacy_1080x1920_approved.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030377537/limit_legacy_cta.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030377537/interest_legacy_cta.mp4
+
+Processing files for approved task: 10030490689
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030490689/splash_page_v1.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030490689/splash_page_v2.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030490689/splash_page_combo.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030490689/splash_page_final.pdf
+
+Processing files for approved task: 10030502849
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030502849/Petal 1 Question Quiz.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030502849/Petal 1 Question Quiz Updated.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030502849/Petal 1 Question Quiz Updated v2.docx
+
+Processing files for approved task: 10030516545
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030516545/Google Search Ads Copy 181011.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10030516545/capital_one_search_ad_example.png
+
+Processing files for approved task: 10031401281
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10031401281/Bug - Income bug resolution macro.docx
+
+Processing files for approved task: 10041091393
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10041091393/FAQ Insta Highlight.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10041091393/Example of FAQ Instagram Highlight.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10041091393/Example Card 1 .jpeg
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10041091393/Example Card 2.jpeg
+
+Processing files for approved task: 10053834113
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10053834113/Blog Post- Credit vs. Debit 22:10:2018.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10053834113/Blog Post- Credit vs. Debit 22_10_2018 V2.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10053834113/Credit vs Debit REVISED.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10053834113/Credit vs Debit FINAL.docx
+
+Skipping unapproved task: f10053835073
+
+Processing files for approved task: 10053852417
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10053852417/Registration No-Fee Disclosure.docx
+
+Processing files for approved task: 10054313473
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10054313473/Interest Rates.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10054313473/Interest Rates Final.xlsx
+
+Skipping unapproved task: f10056750145
+
+Processing files for approved task: 10057558785
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057558785/Tweets.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057558785/Tweets REVISED.xlsx
+-- fetching files
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057558785/Approved Tweets.xlsx
+
+Processing files for approved task: 10057756929
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057756929/Deeplink Drip Campaign Brief v1 102318.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057756929/Screen Shot 2018-10-24 at 4.54.27 PM.png
+
+Processing files for approved task: 10057897665
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057897665/New press IG update.MOV
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10057897665/NEW (2) press IG update.mov
+
+Processing files for approved task: 10062740993
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10062740993/IMG_6136.JPG
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10062740993/Card shot updated.JPG
+
+Processing files for approved task: 10082111105
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10082111105/Withdraw Application Language.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10082111105/Withdraw Application Language Revisions.docx
+
+Skipping unapproved task: f10084093633
+
+Processing files for approved task: 10084333185
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10084333185/#PayWithPetal Instagram Story.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10084333185/#PayWithPetal Instagram Story Revised.mov
+
+Processing files for approved task: 10092137857
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10092137857/Deeplink Copy Update 10.28.18.pdf
+
+Processing files for approved task: 10117349825
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10117349825/Social Ads 181105.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10117349825/Social Ads - REVISED.pdf
+
+Skipping unapproved task: f10124945985
+
+Processing files for approved task: 10125611009
+-- num docs: 5
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125611009/IOS Marketing Launch V1 09062018 .zip
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125611009/IOS GTM Current Customers V1 Project Brief.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125611009/IOS Announcment (dragged) 2.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125611009/IOS Announcment (dragged).pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125611009/iOS - Reminder (Updated Version - Use these).pdf
+
+Processing files for approved task: 10125760449
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125760449/Ditch debit .pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125760449/Approval to Transaction Flow Email Updates V2 Project Brief.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125760449/Ditch Debit V2.pdf
+
+Processing files for approved task: 10125818177
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125818177/Autopay@2x.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10125818177/Turn On Auto-Pay Reminder V1 Project Brief.pdf
+
+Processing files for approved task: 10131798529
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10131798529/disclosure_v2 (1).jpg
+
+Processing files for approved task: 10132458945
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10132458945/Confirmation-Page Update-11.06.18.pdf
+
+Processing files for approved task: 10136602945
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10136602945/Gmail Ads.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10136602945/Gmail Ads V2.docx
+
+Processing files for approved task: 10142795393
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10142795393/Organic Social Posts with Disclosures.pdf
+
+Processing files for approved task: 10156220417
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10156220417/Facebook Carousel Ads Copy.docx
+
+Processing files for approved task: 10158636929
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10158636929/Credit Card True:False.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10158636929/Credit True:False REVISED.mov
+
+Processing files for approved task: 10161424705
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10161424705/UGC Card Share.mov
+
+Processing files for approved task: 10163176129
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10163176129/Screen Shot 2018-11-14 at 11.49.45 AM.png
+
+Processing files for approved task: 10167031041
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10167031041/We Want Petal To Be Different V2 11152018.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10167031041/We Want Petal To Be Different V3.png
+
+Processing files for approved task: 10168561921
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10168561921/payments_source_tool_web.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10168561921/Payment Source collection- Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10168561921/Payment Source collection- Web revisions.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10168561921/Payment Source collection- Web Revisions 2.docx
+
+Processing files for approved task: 10170196545
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10170196545/Additional Landing Pages 11152018.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10170196545/Landing Page 1 (UPDATED) .png
+
+Processing files for approved task: 10172941953
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10172941953/Screen Shot 2018-11-16 at 10.31.56 AM.png
+
+Processing files for approved task: 10174583489
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10174583489/How much does an Instagram influencer make_ .docx
+
+Processing files for approved task: 10175813441
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10175813441/IoS Announcment V2.pdf
+
+Processing files for approved task: 10185557313
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10185557313/DL4- It's not too late to apply.pdf
+
+Processing files for approved task: 10185560193
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10185560193/Account Creation Reminder@1x.pdf
+
+Processing files for approved task: 10186487873
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10186487873/self_reported_credit_score_combined.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10186487873/Updated Low Credit Screen
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10186487873/Updated Low Credit Screen V2
+
+Processing files for approved task: 10191101697
+-- num docs: 6
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Referral Program Part 1:2 V1 112018.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Referral Program Part 2:2 V1 112018.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Referral Program Part 1 V2 112018.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Referral Program Part 2 V2 112018.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Part 1 No Incentive Referral .pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10191101697/Referral Revamp NO INCENTIVE.pdf
+
+Processing files for approved task: 10204534529
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10204534529/IMG_7295-2.jpeg
+
+Processing files for approved task: 10211773505
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10211773505/Screen Shot 2018-11-27 at 10.50.36 AM.png
+
+Skipping unapproved task: f10214380865
+
+Processing files for approved task: 10216602881
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10216602881/app facebook ad copy.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10216602881/app facebook ad copy updated.xlsx
+
+Processing files for approved task: 10217068097
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10253419009
+-- num docs: 5
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10253419009/281118 Adwords Ads For Approval.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10253419009/281118 Adwords Ads For Approval V2.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10253419009/281118 Adwords Ads For Approval V2.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10253419009/281118 Adwords Ads For Approval V3.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10253419009/281118 Adwords Ads For Approval V3 (4).xlsx
+
+Processing files for approved task: 10262868737
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10262868737/iOS_App Announcement (2).mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10262868737/iOS App Announcement FIXED.mov
+
+Processing files for approved task: 10272661761
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10272661761/Inactive Customer Outreach v1 Brief.pdf
+
+Processing files for approved task: 10272985665
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10272985665/#PayWithPetal customer share.mov
+
+Processing files for approved task: 10287008577
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10287008577/IMG_7725.JPG
+
+Processing files for approved task: 10290933185
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10290933185/SCRA Language Revision for Web (3).docx
+
+Processing files for approved task: 10293591553
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10293591553/120718_new_email_ stuck_in_preapproval.pdf
+
+Processing files for approved task: 10297546177
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10297546177/Email to customers affected by Nov 30 Statement Error.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10297546177/Email to customers affected by Nov 30 Statement Error-  for Web (2).docx
+
+Processing files for approved task: 10297546433
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10297546433/12132018_expired_deeplink_token_copy.png
+
+Processing files for approved task: 10301052801
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10301052801/Petal Reflecting on Credit Report Timeline- Web.docx
+
+Processing files for approved task: 10303537665
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10303537665/Dec 2018 - New image in registration.pdf
+
+Processing files for approved task: 10306374529
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10306374529/IG Posts - 12:21 and 12:23.pdf
+
+Processing files for approved task: 10306472769
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10306472769/New Years Day IG Post.pdf
+
+Processing files for approved task: 10308260097
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10308260097/Dec2018-new-image-prequal-denied-page.pdf
+
+Processing files for approved task: 10319781569
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10319781569/Banner Ads.pdf
+
+Skipping unapproved task: f10331490305
+
+Processing files for approved task: 10331603265
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10331603265/RE  Updated Adverse Action Reason Code.msg
+
+Processing files for approved task: 10331603713
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10331603713/Variant 3.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10331603713/Variant 2.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10331603713/Variant 1..png
+
+Processing files for approved task: 10335145921
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335145921/Full mailing address collection macro (1).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335145921/Full mailing address collection macro Revisions.docx
+
+Processing files for approved task: 10335172225
+-- num docs: 7
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/Limits Ad.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/New To Credit Ad.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/No Fees Ad.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/Vertical:Debit:No Fees Ad.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/Wallets BFF Ad.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/Wall Street Ad.jpg
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335172225/InlineImage.gif
+
+Processing files for approved task: 10335240001
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335240001/122118_Bank_Page_AB_Test.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335240001/Current copy[Bank Page AB Test Dec-2018].pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10335240001/Dec2018_bank_step_AB_test_visuals.pdf
+
+Processing files for approved task: 10345198977
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10345198977/Petal - Impact Radius Descriptions.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10345198977/v2 Impact Radius Descriptions.pdf
+
+Processing files for approved task: 10359952705
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10359952705/How Good Credit Saves Time and Money (1).docx
+
+Processing files for approved task: 10361235649
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10361235649/Quora Ads.xlsx
+
+Processing files for approved task: 10361889985
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10361889985/Instagram Organic Content.xlsx
+
+Processing files for approved task: 10364813633
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10364813633/#20 - Payment Due (1).docx
+
+Processing files for approved task: 10366690113
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10366690113/Paid Copy Doc (WORKING) - Google Display Network (1).csv
+
+Processing files for approved task: 10368124865
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10368124865/2019-01-04-App_confirmation_page copy_update.pdf
+
+Skipping unapproved task: f10369495873
+
+Processing files for approved task: 10369496513
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10369496513/Payment Hold Language - Web (1).docx
+
+Processing files for approved task: 10373289665
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10373289665/Tweet - 1:7:2019.xlsx
+
+Processing files for approved task: 10376457537
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10376457537/2018-01-07 [AA Notice for Technical Issues].pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10376457537/190117_AA_Notice_Technical_Issues.pdf
+
+Processing files for approved task: 10383206977
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10383206977/Pinterest_ads_190108.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10383206977/pinterest_description.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10383206977/Pinterest_ads_190111.pdf
+
+Processing files for approved task: 10386442817
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10386442817/APR & Limit adjustment Email.docx
+
+Processing files for approved task: 10387628161
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10387628161/The Best Ways to Build Credit.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10387628161/The Best Ways to Build Credit FINAL.docx
+
+Processing files for approved task: 10390841921
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10390841921/Jan & Dec Autopay - Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10390841921/Jan & Dec Autopay - Web Revisions.docx
+
+Processing files for approved task: 10393524225
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10393524225/January Tweets.xlsx
+
+Processing files for approved task: 10394666369
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10394666369/Pinterest - 2.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10394666369/Pinterest - 1 (1).png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10394666369/gmail_ads_190111.pdf
+
+Processing files for approved task: 10394792321
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10394792321/instagram_ads_190110.xlsx
+
+Processing files for approved task: 10396192897
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10396192897/Credit bureau reporting delays macro.docx
+
+Processing files for approved task: 10398434497
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10398434497/Incorrect Check Payment- Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10398434497/Incorrect Check Payment- Web (revisions).docx
+
+Processing files for approved task: 10400531585
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10400531585/Android app updates_ fingerprint impemention.pdf
+
+Processing files for approved task: 10414000001
+-- num docs: 5
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10414000001/facebook_static_ads_190115.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10414000001/sticker_bounce_1080x1080.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10414000001/zoom_hello_1080x1080.mp4
+-- fetching files
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10414000001/facebook_static_ads_190117.xlsx
+
+Processing files for approved task: 10426367041
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10426367041/Web_ AutoPay Segment 3.docx
+-- fetching files
+
+Processing files for approved task: 10427253185
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10427253185/Screen Shot 2019-01-22 at 5.57.13 PM.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10427253185/Screen Shot 2019-01-22 at 5.57.13 PM.png
+
+Processing files for approved task: 10427336321
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10427336321/190117_Credit_Freeze_Copy_Revision_51.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10427336321/190124_Credit_Freeze_ Revision.pdf
+
+Skipping unapproved task: f10432042625
+
+Processing files for approved task: 10432478401
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10432478401/Address Change then Reissues Card within 30 days.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10432478401/Customer Operations Processes - Card Reissues.pdf
+
+Processing files for approved task: 10432517057
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10432517057/Change Address Procedure.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10432517057/Address Change Process Flows.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10432517057/Address Change Process Flows.pdf
+
+Processing files for approved task: 10440231425
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10440231425/Experian Code Process - Updated.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10440231425/Experian Special Codes - Experian Special Codes Process.pdf
+
+Processing files for approved task: 10452085057
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10452085057/Series B - Draft Press Release (Jan 19).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10452085057/Series B - Draft Press Release (Jan 19) v2.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10452085057/Series B_ draft press release [FINAL -- Jan 2019].pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10452085057/Re_ Series B Press Release.msg
+
+Processing files for approved task: 10457433921
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10457433921/Closed account macros.docx
+
+Processing files for approved task: 10465577089
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10465577089/Copy_ Stackin (1).pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10465577089/Stackin Update Jan30.pdf
+
+Processing files for approved task: 10465600385
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10465600385/Copy_ Penny Hoarder Article .pdf
+
+Processing files for approved task: 10471406209
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10471406209/Petal Card Share 1.JPG
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10471406209/Petal Card Share 2.JPG
+
+Processing files for approved task: 10472832641
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10472832641/IG copy.xlsx
+
+Processing files for approved task: 10475616449
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10475616449/012819_BankDeepLinkingUpdate.pdf
+
+Processing files for approved task: 10484203329
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10484203329/Instagram Story Customer Card Share 1:30.mov
+
+Processing files for approved task: 10485609473
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10485609473/Series B Press Round Up IG Story 1:30.mov
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10485609473/Series B RoundUp FINAL.mov
+
+Processing files for approved task: 10486164801
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10486164801/Proposed update to Suspicious Activity - Transaction Declined or Card Blocked.docx
+
+Processing files for approved task: 10487878529
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10487878529/advertorial_copy_final_190130.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10487878529/advertorial_copy_final_190130_2.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10487878529/advertorial_copy_final_190130_3.docx
+
+Processing files for approved task: 10488194945
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10488194945/2.0- I need to update my address.docx
+
+Processing files for approved task: 10500507393
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10500507393/Pre-Qual Approved (with options)@2x (1).pdf
+
+Processing files for approved task: 10501935937
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10501935937/Petal Collections Policy (redline).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10501935937/Petal Collections Procedures (redline).docx
+
+Processing files for approved task: 10506171201
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10506171201/Incorrect November statement Comms.docx
+
+Processing files for approved task: 10510350977
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10510350977/Application Survey_ HDYHAU [Jan-2019].pdf
+
+Processing files for approved task: 10511103233
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10511103233/fb_ig_ads_190204.xlsx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10511103233/fb_ig_ads_190204_v2.xlsx
+
+Processing files for approved task: 10514797185
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10514797185/Feb Card Content.xlsx
+
+Processing files for approved task: 10517445121
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10517445121/podcast_script_190205.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10517445121/podcast_script_190205_v2.docx
+
+Processing files for approved task: 10523806529
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10523806529/fb_ig_retargeting_ads_190206.xlsx
+
+Processing files for approved task: 10528403521
+-- num docs: 7
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/01 Printer 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/02 Price of Coffee 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/03 POS Machine 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/04 No Fees 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/05 Balloon 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/06 Card 010219.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10528403521/Printer V3.mp4
+
+Processing files for approved task: 10550614593
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10550614593/"Todays Tea" Tweet.xlsx
+
+Processing files for approved task: 10561226113
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10561226113/HDYHAU_copy_update[Feb-2019].png
+
+Processing files for approved task: 10580009217
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10580009217/Check for owner name.pdf
+
+Processing files for approved task: 10586145665
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10586145665/January late statement upload comms.docx
+
+Skipping unapproved task: f10588542081
+
+Processing files for approved task: 10595728065
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10595728065/credit card facts IG quiz.mov
+
+Processing files for approved task: 10596583617
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10596583617/Ad Copy with Emojis.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10596583617/Ad Copy with Emojis REVISED.docx
+
+Processing files for approved task: 10600926529
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10600926529/Updated Application Incomplete - Credit Freeze Email.docx
+
+Processing files for approved task: 10603452737
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10603452737/podcast_script_v2_190221.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10603452737/podcast_script_v3_190225.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10603452737/podcast_script_v4_190226.docx
+
+Processing files for approved task: 10604363329
+-- num docs: 5
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10604363329/Application Pending Marketing Email Brief V1.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10604363329/Application Pending - immediately after being put into pending.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10604363329/4 days after put into Pending (58% of pending applications make it here).png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10604363329/9 days after put into Pending (30% of pending applications make it here).png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10604363329/V2 9 days after put into Pending (30% of pending applications make it here).png
+
+Processing files for approved task: 10608208193
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10608208193/Petal CFSI Profile (Clean).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10608208193/Petal CFSI Profile (JH Suggestions).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10608208193/Petal CFSI Profile - Final.docx
+
+Processing files for approved task: 10611888641
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10611888641/Opt-Out Confirmation to Customers.docx
+
+Processing files for approved task: 10625221569
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10625221569/Plaid Fin - Petal Byline (Clean 02262019).docx
+
+Processing files for approved task: 10628083713
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10628083713/Statement Available:AutoPay Scheduled Emails.docx
+
+Processing files for approved task: 10629830465
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10629830465/ads_190225.xlsx
+
+Processing files for approved task: 10631469185
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10631469185/Petal Collections Procedures (02.01.19).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10631469185/Petal Collections Policy-2 (02.01.19).docx
+
+Processing files for approved task: 10633845377
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10633845377/Sezzle Email.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10633845377/Sezzle Updated.pdf
+
+Processing files for approved task: 10640908353
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10640908353/Petal Customer Complaint Policy final 2.5.19.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10640908353/Petal Complaint Policy 2.5.2019 REDLINE.docx
+
+Processing files for approved task: 10643518017
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10643518017/14k Financial Institutions - Language.docx
+
+Processing files for approved task: 10654208257
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10654208257/Upcoming Due Date Reminder Email.docx
+
+Processing files for approved task: 10654789377
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10654789377/Freeze Tool Customer Facing Content.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10654789377/Card Freeze Tool - Confirmation Emails.docx
+
+Skipping unapproved task: f10655706689
+
+Processing files for approved task: 10655962945
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10655962945/Balance check warning.pdf
+
+Processing files for approved task: 10660661569
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10660661569/petal-turbo-copy-update-3.4.19.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10660661569/v2 Turbo Petal Email.png
+
+Processing files for approved task: 10663881601
+-- num docs: 10
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial #2.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial #2.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial 1 FINAL.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial 1 FIXED WITH ALL CHANGES.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial 2 FIXED WITH ALL CHANGES.docx
+-- fetching files
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial APR Disclosure Large 1.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10663881601/Advertorial APR Disclosure Large 2.png
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 10667201537
+-- num docs: 5
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10667201537/StoryAd_3.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10667201537/story_ad.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10667201537/StoryAd_1.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10667201537/StoryAd_2.mp4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10667201537/StoryAd_4.mp4
+
+Processing files for approved task: 10670390721
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10670390721/Direct Mail Landing Page __ Web Review.pdf
+
+Processing files for approved task: 10670421185
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10670421185/Direct Mail Application Updates __ Web Review.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10670421185/DirectMailAppFlow.zip
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10670421185/Petal DM App Flow.pdf
+
+Processing files for approved task: 10688937409
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10688937409/PetalMidV2.wav
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10688937409/PETAL-XXXX-INTRO-CP-60-V3-PODCAST.docx
+
+Processing files for approved task: 10689986241
+-- num docs: 2
+-- fetching files
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10689986241/LaunchVideo_WebBank.pdf
+
+Skipping unapproved task: f10694151425
+
+Skipping unapproved task: f10697472641
+
+Processing files for approved task: 10701918529
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10701918529/March 13 Hi Fiona Assetsw.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10701918529/HiFiona.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10701918529/4.8 Hi Fiona Updated.pdf
+
+Processing files for approved task: 10703762433
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10703762433/March IG Card Assets .xlsx
+
+Processing files for approved task: 10705303489
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10705303489/DM 03-13-19 v3.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10705303489/DM 03-19-19.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10705303489/InlineImage.gif
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10705303489/DM 03-19-19 (1).pdf
+
+Processing files for approved task: 10705702017
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10705702017/Refer a friend.pdf
+
+Processing files for approved task: 10719131137
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10719131137/Impact Radius Block and Redirect page.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10719131137/Petal_Card_Impact_Error_Classification_3.22.19.xlsx
+
+Processing files for approved task: 10727430081
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10727430081/032019DirectMailActivation UpdatesReview.pdf
+
+Processing files for approved task: 10739103169
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10739103169/V2 Homepage 320-merged.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10739103169/V2 Homepage.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10739103169/V2 The Company.pdf
+
+Processing files for approved task: 10752937729
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10752937729/IMG_1030.JPG
+
+Skipping unapproved task: f10762504321
+
+Processing files for approved task: 10768427841
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768427841/RedVentures.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768427841/Red Ventures 2.pdf
+
+Processing files for approved task: 10768933953
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768933953/Interest Slider Copy doc - Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768933953/Interest Slider Copy doc - Web (1).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768933953/Interest Slider Copy doc - Web (1).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10768933953/Interest Slider Copy doc - Web Redlined.docx
+
+Processing files for approved task: 10776786689
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10776786689/Dm piece 03_27_19.pdf
+
+Processing files for approved task: 10779791681
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10779791681/Direct Mail Content- Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10779791681/Direct Mail Content- Web (Bank Comments).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10779791681/Direct Mail FAQ and Macro Revisions - Redlined.docx
+
+Processing files for approved task: 10780382977
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10780382977/Screen Shot 2019-03-26 at 6.19.35 PM.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10780382977/interest tooltip old.PNG
+
+Processing files for approved task: 10786866817
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10786866817/Approved to Activate Journey.pdf
+
+Processing files for approved task: 10788596353
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10788596353/Payment_ACH Processing Delays.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10788596353/Payment_ACH Processing Delays - redlined.docx
+
+Processing files for approved task: 10793002305
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10793002305/New Interest Calc Content- Web.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10793002305/New Interest Calc Content- Web redlined.docx
+
+Processing files for approved task: 10797467329
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797467329/Woj - Petal spot.mp3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797467329/PETAL-XXX-P1-INTRO-YOUNGER.docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797467329/Woj - Petal spot 041219.mp3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797467329/Petal-XXX-P2-Younger-CP.docx
+
+Processing files for approved task: 10797553217
+-- num docs: 4
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797553217/Credit Sesame 2nd Email Send.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797553217/4.8 Credit Sesame v2 .png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797553217/Revised Credit Sesame.png
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10797553217/Sesame Update.png
+
+Processing files for approved task: 10808067009
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10808067009/302 Activation Issue Email.docx
+
+Processing files for approved task: 10810066241
+-- num docs: 2
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10810066241/Petal Collections Policy (redline).docx
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/10810066241/RE_ Request for further Collections Policy change.msg
+
+Skipping unapproved task: f10811582145
+
+Processing files for approved task: 10815872769
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10817876417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10828927233
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10828952001
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10829192001
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 10829710465
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10838456065
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f10840217025
+
+Processing files for approved task: 10844878977
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10848222913
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10852900545
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 10853884673
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10855646977
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10855658689
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10862437185
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 10863939585
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10865997249
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10866341825
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10871772225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10879293761
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10890815041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10893874177
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 10902894529
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10906648961
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10907904833
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 10909514369
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Skipping unapproved task: f10909562817
+
+Processing files for approved task: 10909669057
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10911828417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10915925441
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10916691265
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10923571969
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 10923572097
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f10928130497
+
+Skipping unapproved task: f10928217985
+
+Processing files for approved task: 10934380353
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10934385537
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10935878913
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Skipping unapproved task: f10937626753
+
+Processing files for approved task: 10940424449
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10940470785
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10940648513
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 10944169729
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10945221761
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 10945289281
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f10945306241
+
+Processing files for approved task: 10945464321
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10946904641
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f10958823873
+
+Processing files for approved task: 10959575041
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 10959942849
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10964410433
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10964453249
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10965265025
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 10965491841
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10969835073
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10970032577
+-- num docs: 7
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 10970736321
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10972778625
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10972792449
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10976374849
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10976615937
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10976617921
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10978283265
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 10978301953
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 10988221441
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10988420865
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 10989843649
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11000258177
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11000259009
+-- num docs: 7
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 14 ***
+    done with fetch
+
+Processing files for approved task: 11000482305
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11001107713
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 11003950465
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11007234881
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11027840577
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11028017409
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11028051329
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11031276737
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11032269761
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11037988353
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f11040047681
+
+Processing files for approved task: 11040089729
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11040154113
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11040526657
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11044419457
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11048675393
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11048934657
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11052000321
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11054680641
+
+Processing files for approved task: 11055971585
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11058170113
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11073132225
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11074144833
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11074325505
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11074325505/Categorization Model Medium Post [DRAFT 5_22].docx
+
+Processing files for approved task: 11074336065
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11074779585
+
+Processing files for approved task: 11076387073
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11079630977
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11082395905
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11082476289
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11083296897
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11083511361
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11088221633
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11088696001
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11094036097
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11105654913
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11109233729
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11114885953
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11114903425
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11114926081
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11115033729
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Skipping unapproved task: f11115956801
+
+Processing files for approved task: 11117932033
+-- num docs: 7
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11119534017
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 11129652289
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11132941889
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11134523777
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11134593409
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11136775681
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11139637889
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11139669185
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11143469377
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11151362497
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11151393537
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11151717697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11155488001
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11161078081
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11163713729
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11172029953
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11172225729
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11178135553
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11184268865
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11188078657
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11194274689
+-- num docs: 0
+
+Processing files for approved task: 11198212993
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11201156545
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11207127937
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11207149057
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11208620417
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11209785345
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11213921985
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11221637377
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11221787073
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11225206017
+-- num docs: 0
+
+Processing files for approved task: 11226713921
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11228460929
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11235308737
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11256934977
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11269452993
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f11270923969
+
+Processing files for approved task: 11271372353
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11272279809
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11272302849
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11278675265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11279634241
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11280001281
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11281935489
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11282146625
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11282175041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11282365889
+-- num docs: 0
+
+Processing files for approved task: 11288933249
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11290973505
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11292046593
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11298370497
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11301031169
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11301465025
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11310136065
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11313812545
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11313883713
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f11315021697
+
+Processing files for approved task: 11320790657
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11320830017
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 13 ***
+    done with fetch
+
+Processing files for approved task: 11322153921
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11322443585
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11324101313
+
+Processing files for approved task: 11324101569
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11326659585
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11327374721
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11332119745
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11334932737
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11345165505
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11352985153
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11353661057
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11353661057/Petal Blogpost.docx
+
+Processing files for approved task: 11353949121
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11353983361
+
+Processing files for approved task: 11354018689
+-- num docs: 0
+
+Processing files for approved task: 11354034369
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11357534849
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11357906305
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11358717569
+
+Skipping unapproved task: f11358832001
+
+Processing files for approved task: 11359514561
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11364663041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11365459905
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11365990785
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11366181953
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11371157825
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11371301185
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11372495745
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11376733761
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11378935361
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11381080513
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11383340033
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11386995969
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11387985665
+
+Skipping unapproved task: f11388004545
+
+Processing files for approved task: 11391481793
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11392643521
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11393981825
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11401060161
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11403023425
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11403059841
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11404576961
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11411345793
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11413513025
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11413515265
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11413822913
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11413822913/Petal Blogpost #2.docx
+
+Processing files for approved task: 11415596033
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11416116993
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11417417857
+-- num docs: 7
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 14 ***
+    done with fetch
+
+Processing files for approved task: 11417439681
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11421608385
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11424112321
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11425681345
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11427150657
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11427576065
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11429624705
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11429865537
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11431121665
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11431718785
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11432058433
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11432944769
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11438811329
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 11444447681
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11444883521
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11448587457
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11456082497
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11463923265
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11470462849
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11471602369
+-- num docs: 3
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11471602369/Updated Same Day Payments Flow For No Same Day Cancellations + Authorization Modal v2.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11471602369/Updated Same Day Payments Flow For No Same Day Cancellations + Authorization Modal v3.pdf
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11471602369/Updated Same Day Payments Flow For No Same Day Cancellations.pdf
+
+Processing files for approved task: 11474352769
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11474958337
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11477820097
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11482500737
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11483078337
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11483128513
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11483470337
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11484173697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11484758785
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11485138817
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11485157697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11485163073
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11485331201
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11489487489
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11492556993
+-- num docs: 6
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 11 ***
+    done with fetch
+
+Processing files for approved task: 11495475841
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11495721089
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11496349441
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11506441729
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11506634497
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11506719553
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11506723841
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11509051073
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11509731073
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11516022529
+
+Processing files for approved task: 11516277441
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11518798465
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11519339201
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11529061057
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 10 ***
+    done with fetch
+
+Processing files for approved task: 11531511937
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11550906945
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11556034049
+-- num docs: 1
+-- fetching files
+ -- file exists: skipping - /Users/john.wang/workspace/petal/clarizen-scraper/downloads/11556034049/Missing Payment Account Toast.pdf
+
+Processing files for approved task: 11557893569
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11559480321
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11559630337
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11564862977
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11565020353
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11565064705
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11565512833
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11567362945
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11571106945
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11573526401
+
+Processing files for approved task: 11582211585
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11587636801
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11593705281
+-- num docs: 13
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 14 ***
+    done with fetch
+
+Processing files for approved task: 11602015041
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11602295937
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11607242689
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11611223809
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11612834369
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11615959297
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11617068033
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11621417665
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11622614081
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11632462209
+
+Processing files for approved task: 11645017089
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11645143425
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11645152257
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11646701697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11650619009
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11654220033
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11654350273
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11663643905
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11673484097
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11680103169
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11681783617
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11682446465
+-- num docs: 1
+-- fetching files
+
+Skipping unapproved task: f11687022849
+
+Processing files for approved task: 11688028225
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11688589249
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11693252225
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11707725697
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11708657153
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11708702209
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11711882433
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11713057537
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11713082241
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11723808897
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 12 ***
+    done with fetch
+
+Skipping unapproved task: f11724828225
+
+Processing files for approved task: 11728402049
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11729272257
+-- num docs: 8
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 9 ***
+    done with fetch
+
+Processing files for approved task: 11729762497
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11729766081
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11741208513
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11744110593
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11744792449
+-- num docs: 3
+-- fetching files
+-- fetching files
+-- fetching files
+
+Skipping unapproved task: f11746220673
+
+Processing files for approved task: 11746599041
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11746668161
+-- num docs: 4
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11747018753
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11754505793
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11755051713
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11756831489
+-- num docs: 1
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11769521921
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11779448193
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11782077377
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11786802177
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11789198401
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+
+Processing files for approved task: 11795360193
+-- num docs: 2
+-- fetching files
+-- fetching files
+
+Processing files for approved task: 11799977025
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11800284289
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11800646145
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11801372033
+-- num docs: 1
+-- fetching files
+
+Processing files for approved task: 11809926657
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 8 ***
+    done with fetch
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+Exception: Exceeded 30 redirects.
+^CTraceback (most recent call last):
+  File "/Users/john.wang/workspace/petal/clarizen-scraper/clarizen_scraper.py", line 257, in <module>
+
+  File "/Users/john.wang/workspace/petal/clarizen-scraper/clarizen_scraper.py", line 209, in run_main
+    for task_ident in l:
+  File "/Users/john.wang/workspace/petal/clarizen-scraper/clarizen_scraper.py", line 57, in is_task_approved
+    response = requests.get(
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 723, in send
+    history = [resp for resp in gen]
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 723, in <listcomp>
+    history = [resp for resp in gen]
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 266, in resolve_redirects
+    resp = self.send(
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/local/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
