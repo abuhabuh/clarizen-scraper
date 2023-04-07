@@ -180,7 +180,7 @@ def run_main():
         os.makedirs(folder)
 
 
-    l = task_constants.ALL_TASKS[75:]
+    l = task_constants.ALL_TASKS
 
     download_list = []
     errored_task_ids = []
