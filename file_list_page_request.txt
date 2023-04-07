@@ -1,0 +1,70 @@
+=== js fetch cmd ===
+fetch("https://app2.clarizen.com/Clarizen/Ajax?__aftoken=R~oQTmKaiUiS7s7OC958Kw", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"111\", \"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"111\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://app2.clarizen.com/Clarizen/GenericTask",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+
+  ////// selectedIdentifiers needs to be updated
+  ////// probably also pageNumber
+  ////// probably also viewId
+
+  "body": "controls=%5B%7B%22type%22%3A%22SingleObjectRelation%22%2C%22state%22%3A%7B%22LocalContextId%22%3A%22TS.GenericTask.ObjectRelations.ATTDOCS.SimpleRelation%22%2C%22NotifyTo%22%3A%22Collaboration_ObjectRelations%22%2C%22NotifyAction%22%3A%22relationToggle%22%2C%22InternalControlId%22%3A%22Collaboration_ObjectRelations_RelationController_ATTDOCS_ATTDOCS_view%22%2C%22RelationName%22%3A%22ATTDOCS%22%2C%22AddSlider%22%3Atrue%2C%22ShowAddButton%22%3Atrue%2C%22Id%22%3A%22Collaboration_ObjectRelations_RelationController_ATTDOCS%22%2C%22ContextId%22%3A%22TS.GenericTask.ObjectRelations.ATTDOCS%22%2C%22DataProvider%22%3A%22ObjectRelations%22%2C%22Action%22%3A%22SingleRelation%22%2C%22StateAdded%22%3Atrue%2C%22Visible%22%3Atrue%2C%22IsCCCSupported%22%3Atrue%2C%22CanCallFirstTimeRefresh%22%3Atrue%7D%2C%22parameters%22%3A%7B%22selectedIdentifiers%22%3A%5B%228.13421857409.24350977%22%5D%2C%22relationName%22%3A%22ATTDOCS%22%2C%22viewMode%22%3A0%2C%22viewId%22%3A%22354.11997121.0%22%2C%22pageNumber%22%3A1%2C%22checkForEmpty%22%3Atrue%7D%2C%22controlRequestId%22%3A18%7D%5D&requestId=17&stateId=1b640518-7228-4831-b502-d9acfb25b506_1&specialMessageId=0",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+
+=== payload ===
+{
+  "htmlBuilder": "ExtendedRelation",
+  "htmlBuilderState": {
+    "Id": "extended-relation-popup-ATTDOCS",
+    "DataProvider": "ObjectRelations",
+    "Action": "SingleRelation",
+    "ContextId": "TS.GenericTask.ObjectRelations.ATTDOCS",
+    "LocalContextId": "TS.GenericTask.ObjectRelations.ATTDOCS.ExtendedRelation",
+    "NotifyTo": "Collaboration_ObjectRelations_RelationController_ATTDOCS",
+    "NotifyAction": "refresh",
+    "ExternalParams": [
+      "selectedIdentifiers"
+    ],
+    "ExpandedMode": true
+  },
+  "parameters": {
+    "selectedIdentifiers": [
+      *********** THIS IS THE DOCUMENT ID maps to `data-ident` in the task list return elements **********
+      "8.13421857409.24350977"
+    ],
+    "relationName": "ATTDOCS",
+    "viewMode": 2,
+    ******** THIS MIGHT HAVE TO MAP TO THE PAGE NUMBER *****
+    "pageNumber": 1,
+    ******** THIS MIGHT HAVE TO MAP TO THE VIEW ID in the task list return schema *****
+    "viewId": "354.11997121.0",
+    "addRibbonData": true,
+    "isMaximized": true
+  },
+  "internalContextParams": [
+    "relationName",
+    "pageNumber",
+    "viewMode",
+    "filtersInfo",
+    "sortInfo",
+    "viewId",
+    "globalFiltersSessionKey",
+    "fetchCount"
+  ]
+}

@@ -1,0 +1,157 @@
+=== js fetch cmd ===
+fetch("https://app2.clarizen.com/Clarizen/Ajax?__aftoken=R~oQTmKaiUiS7s7OC958Kw", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"111\", \"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"111\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://app2.clarizen.com/Clarizen/GenericTask",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+
+  ////// pageNumber needs to be updated to the right page
+
+  "body": "request=%7B%22htmlBuilder%22%3A%22GridRowsCollection%22%2C%22htmlBuilderState%22%3A%7B%22NotifyTo%22%3A%22Pager%2CFilter%2CRibbon_Grid%2CItemCounter%22%2C%22StickyContainer%22%3A%22%22%2C%22ElementId%22%3A%22%22%2C%22ScrollBarWidth%22%3A0%2C%22ScrollBarHeight%22%3A0%2C%22Title%22%3A%2250+Tasks%22%2C%22ParentControl%22%3A%22DisplayView%22%2C%22SupportCustomScrollbars%22%3Atrue%2C%22Mode%22%3A33580%2C%22Draggable%22%3Atrue%2C%22Level%22%3A0%2C%22Containment%22%3A%22contentWrapper%22%2C%22ClientId%22%3A0%2C%22IsFilterable%22%3Atrue%2C%22IsSortble%22%3Atrue%2C%22OnChange%22%3A%22updateObject%22%2C%22OnDrop%22%3A%22linkObjectsOnDrop%22%2C%22SemiSelection%22%3Atrue%2C%22AllowScrollToObject%22%3Atrue%2C%22SupportContextualMenu%22%3Atrue%2C%22SelectOnInit%22%3Atrue%2C%22SupportSelection%22%3Atrue%2C%22Id%22%3A%22Grid%22%2C%22ContextId%22%3A%22TS.GenericTask%22%2C%22DataProvider%22%3A%22ObjectsCollection%22%2C%22Action%22%3A%22GetItems%22%2C%22StateAdded%22%3Atrue%2C%22Visible%22%3Atrue%2C%22IsCCCSupported%22%3Atrue%7D%2C%22parameters%22%3A%7B%22className%22%3A%22GenericTask%22%2C%22queryName%22%3A%22Subsystem%22%2C%22viewId%22%3A%22354.11997121.0%22%2C%22userList%22%3A%5B%229.183072769.24350977%22%5D%2C%22timePeriod%22%3A%7B%22fromDate%22%3Anull%2C%22toDate%22%3Anull%2C%22shortCut%22%3Anull%2C%22count%22%3Anull%7D%2C%22pageNumber%22%3A2%2C%22fetchCount%22%3A-1%2C%22pagingInfo%22%3Anull%2C%22sortInfo%22%3A%7B%22Direction%22%3A0%2C%22ColumnName%22%3A%22PEDT%22%2C%22Alias%22%3A%22%22%2C%22Order%22%3A0%7D%2C%22filtersInfo%22%3A%7B%22filters%22%3A%7B%22FLTTSK%22%3A%7B%22Alias%22%3Anull%2C%22ReadOnlyOperator%22%3Afalse%2C%22QueryName%22%3Anull%2C%22ChartAxisType%22%3Anull%2C%22Op%22%3A0%2C%22Order%22%3A0%2C%22IsPredefined%22%3Afalse%2C%22Value%22%3A%7B%22%24type%22%3A%22BCS.Presentation.View.SimpleFilterValue%2C+BCS.Presentation.GenericLogic%22%2C%22Data%22%3A%22true%22%2C%22IsEmptyValue%22%3Afalse%7D%2C%22ChartId%22%3Anull%2C%22IsEmptyValue%22%3Afalse%2C%22ReadOnlyFilter%22%3Atrue%2C%22Mandatory%22%3Atrue%2C%22IsVisible%22%3Afalse%2C%22ID%22%3A%22FLTTSK%22%2C%22RuntimeValue%22%3Afalse%2C%22DisplayName%22%3Anull%2C%22OverrideDisplayName%22%3Afalse%2C%22IgnoreOpAndValueOnDisplayName%22%3Afalse%2C%22FieldName%22%3A%22FLTTSK%22%2C%22ClassName%22%3A%22GenericTask%22%7D%2C%22Role%22%3A%7B%22Alias%22%3Anull%2C%22ReadOnlyOperator%22%3Afalse%2C%22QueryName%22%3Anull%2C%22ChartAxisType%22%3Anull%2C%22Op%22%3A2%2C%22Order%22%3A100%2C%22IsPredefined%22%3Atrue%2C%22Value%22%3A%7B%22%24type%22%3A%22BCS.Presentation.View.PicklistFilterValue%2C+BCS.Presentation.GenericLogic%22%2C%22Collection%22%3A%5B%7B%22Data%22%3A%22AnyRoleIndirect%22%2C%22IsEmptyValue%22%3Afalse%7D%5D%2C%22IgnoreConvertShortcutIdentifier%22%3Afalse%2C%22IsEmptyValue%22%3Afalse%2C%22MatchAll%22%3Afalse%7D%2C%22ChartId%22%3Anull%2C%22IsEmptyValue%22%3Afalse%2C%22ReadOnlyFilter%22%3Anull%2C%22Mandatory%22%3Atrue%2C%22IsVisible%22%3Afalse%2C%22ID%22%3A%22Role%22%2C%22RuntimeValue%22%3Afalse%2C%22DisplayName%22%3A%22Role%22%2C%22OverrideDisplayName%22%3Afalse%2C%22IgnoreOpAndValueOnDisplayName%22%3Afalse%2C%22FieldName%22%3A%22Role%22%2C%22ClassName%22%3A%22GenericTask%22%7D%7D%2C%22searchFilter%22%3Anull%7D%2C%22showAllTasks%22%3Afalse%2C%22hasTeamPanel%22%3Afalse%2C%22teamIdentifier%22%3A%229.183072769.24350977%22%2C%22layoutFilter%22%3A0%2C%22timesheetShowWBD%22%3Afalse%7D%7D&stateId=1b640518-7228-4831-b502-d9acfb25b506_1",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+
+
+
+=== request body ===
+{
+  "htmlBuilder": "GridRowsCollection",
+  "htmlBuilderState": {
+    "NotifyTo": "Pager,Filter,Ribbon_Grid,ItemCounter",
+    "StickyContainer": "",
+    "ElementId": "",
+    "ScrollBarWidth": 0,
+    "ScrollBarHeight": 0,
+    "Title": "50+Tasks",
+    "ParentControl": "DisplayView",
+    "SupportCustomScrollbars": true,
+    "Mode": 33580,
+    "Draggable": true,
+    "Level": 0,
+    "Containment": "contentWrapper",
+    "ClientId": 0,
+    "IsFilterable": true,
+    "IsSortble": true,
+    "OnChange": "updateObject",
+    "OnDrop": "linkObjectsOnDrop",
+    "SemiSelection": true,
+    "AllowScrollToObject": true,
+    "SupportContextualMenu": true,
+    "SelectOnInit": true,
+    "SupportSelection": true,
+    "Id": "Grid",
+    "ContextId": "TS.GenericTask",
+    "DataProvider": "ObjectsCollection",
+    "Action": "GetItems",
+    "StateAdded": true,
+    "Visible": true,
+    "IsCCCSupported": true
+  },
+  "parameters": {
+    "className": "GenericTask",
+    "queryName": "Subsystem",
+    "viewId": "354.11997121.0",
+    "userList": [
+      "9.183072769.24350977"
+    ],
+    "timePeriod": {
+      "fromDate": null,
+      "toDate": null,
+      "shortCut": null,
+      "count": null
+    },
+    "pageNumber": ******************THIS IS THE VALUE TO CHANGE: set to a number, e.g., 2 ***********,
+    "fetchCount": -1,
+    "pagingInfo": null,
+    "sortInfo": {
+      "Direction": 0,
+      "ColumnName": "PEDT",
+      "Alias": "",
+      "Order": 0
+    },
+    "filtersInfo": {
+      "filters": {
+        "FLTTSK": {
+          "Alias": null,
+          "ReadOnlyOperator": false,
+          "QueryName": null,
+          "ChartAxisType": null,
+          "Op": 0,
+          "Order": 0,
+          "IsPredefined": false,
+          "Value": {
+            "$type": "BCS.Presentation.View.SimpleFilterValue,+BCS.Presentation.GenericLogic",
+            "Data": "true",
+            "IsEmptyValue": false
+          },
+          "ChartId": null,
+          "IsEmptyValue": false,
+          "ReadOnlyFilter": true,
+          "Mandatory": true,
+          "IsVisible": false,
+          "ID": "FLTTSK",
+          "RuntimeValue": false,
+          "DisplayName": null,
+          "OverrideDisplayName": false,
+          "IgnoreOpAndValueOnDisplayName": false,
+          "FieldName": "FLTTSK",
+          "ClassName": "GenericTask"
+        },
+        "Role": {
+          "Alias": null,
+          "ReadOnlyOperator": false,
+          "QueryName": null,
+          "ChartAxisType": null,
+          "Op": 2,
+          "Order": 100,
+          "IsPredefined": true,
+          "Value": {
+            "$type": "BCS.Presentation.View.PicklistFilterValue,+BCS.Presentation.GenericLogic",
+            "Collection": [
+              {
+                "Data": "AnyRoleIndirect",
+                "IsEmptyValue": false
+              }
+            ],
+            "IgnoreConvertShortcutIdentifier": false,
+            "IsEmptyValue": false,
+            "MatchAll": false
+          },
+          "ChartId": null,
+          "IsEmptyValue": false,
+          "ReadOnlyFilter": null,
+          "Mandatory": true,
+          "IsVisible": false,
+          "ID": "Role",
+          "RuntimeValue": false,
+          "DisplayName": "Role",
+          "OverrideDisplayName": false,
+          "IgnoreOpAndValueOnDisplayName": false,
+          "FieldName": "Role",
+          "ClassName": "GenericTask"
+        }
+      },
+      "searchFilter": null
+    },
+    "showAllTasks": false,
+    "hasTeamPanel": false,
+    "teamIdentifier": "9.183072769.24350977",
+    "layoutFilter": 0,
+    "timesheetShowWBD": false
+  }
+}
+

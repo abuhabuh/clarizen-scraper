@@ -1,0 +1,38 @@
+john:arm64:clarizen-scraper/$ python3 clarizen_scraper.py
+-------------------------
+~marketing scraper start~
+-------------------------
+
+Processing files for approved task: 10414000001
+-- num docs: 5
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 5 ***
+    done with fetch
+
+Processing files for approved task: 10426367041
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 2 ***
+    done with fetch
+
+Processing files for approved task: 10427253185
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 2 ***
+    done with fetch
+
+Processing files for approved task: 10427336321
+-- num docs: 2
+-- fetching files
+-- fetching files
+*** fetching file group: num dls 2 ***
+    done with fetch
+
+Skipping unapproved task: f10432042625
+
