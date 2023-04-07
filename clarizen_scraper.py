@@ -165,6 +165,17 @@ def run_downloads(download_list):
     print('    done with fetch')
 
 
+def filter_approved_only(all_tasks):
+    print(f'*** check approved only ***')
+
+    task_id_list = [t.split('.')[1] for t in all_tasks]
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        results = list(executor.map(is_task_approved, task_id_list))
+
+    print('    done with check')
+
+
 def run_main():
 
     print('-------------------------')
@@ -180,7 +191,11 @@ def run_main():
         os.makedirs(folder)
 
 
-    l = task_constants.ALL_TASKS
+    l = sorted(task_constants.ALL_TASKS)
+    approved_list = filter_approved_only(l)
+    print(approved_list)
+
+    return
 
     download_list = []
     errored_task_ids = []
@@ -229,7 +244,6 @@ def run_main():
         except Exception as e:
             print(f'Exception: {str(e)}')
             errored_task_ids.append(task_id)
-            break
 
     run_downloads(download_list)
     download_list = []

@@ -21,6 +21,7 @@ fetch_files_list	clarizen_scraper.py	/^def fetch_files_list(task_ident):$/;"	f
 fetch_task_page	clarizen_scraper.py	/^def fetch_task_page(page_number):$/;"	f
 file_name	clarizen_scraper.py	/^            file_name = row.td.nextSibling.div.span.nextSibling.a.text$/;"	v
 file_rows	clarizen_scraper.py	/^    file_rows = soup.div.div.div.nextSibling.div.div.nextSibling.nextSibling.div.div.div.div.table.find_all('tr')$/;"	v
+filter_approved_only	clarizen_scraper.py	/^def filter_approved_only(all_tasks):$/;"	f
 get_all_task_idents	clarizen_scraper.py	/^def get_all_task_idents():$/;"	f
 get_cookies	clarizen_scraper.py	/^def get_cookies():$/;"	f
 get_params	clarizen_scraper.py	/^def get_params():$/;"	f
