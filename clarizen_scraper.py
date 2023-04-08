@@ -217,7 +217,7 @@ def run_main():
         print('Got cookies. Login successful...probably')
     c_client = ClarizenClient(cookies=all_cookies)
 
-    task_ident_list = sorted(task_constants.ALL_TASKS[0:10])
+    task_ident_list = sorted(task_constants.ALL_TASKS)
 
     download_list = []
     errored_task_ids = []
