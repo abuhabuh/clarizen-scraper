@@ -1,3 +1,4 @@
+tags
 *.tar.gz
 *.swp
 __pycache__
