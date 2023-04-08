@@ -112,8 +112,46 @@ def download_files(c_client, task_ident_list, download_folder):
     print(f'**** Errored task ids: {errored_task_ids}')
 
 
+def audit_tasks(c_client, task_ident_list):
+    """Audit tasks via Clarizen
+
+    For each task:
+    * Mark if approved
+    * If approved, get file list and check if in downloads folder
+    * If in downloads folder, get md5 sum
+    * If approved files missing, mark as missing
+    """
+    audit_json = {}
+
+
+
+
+    return audit_json
+
+
+def get_ids_to_idents(task_idents):
+    """Turn list of task idents into map of ids to idents
+
+    idents have ids in the middle
+    """
+    ids_to_idents = {}
+    for ident in task_idents:
+        tid = ident.split('.')[1]
+        ids_to_idents[tid] = ident
+    return ids_to_idents
+
 
 def run_main():
+    """
+    TODO
+
+    ---- ONLY 1 file dl'd ----
+    Processing files for approved task: 12964106305
+    -- num docs: 2
+    -- fetching files
+    -- fetching files
+    approved? True
+    """
 
     print('-------------------------')
     print('~marketing scraper start~')
@@ -121,7 +159,7 @@ def run_main():
 
     # setup the download folder
     absolute_path = os.path.dirname(__file__)
-    relative_path = "downloads"
+    relative_path = "downloads-new"
     folder = os.path.join(absolute_path, relative_path)
     if not os.path.exists(folder):
         os.makedirs(folder)
@@ -135,9 +173,12 @@ def run_main():
         print('Got cookies. Login successful...probably')
     c_client = ClarizenClient(cookies=all_cookies)
 
-    task_ident_list = sorted(task_constants.ALL_TASKS[0:10])
+    # task_ident_list = sorted(task_constants.ALL_TASKS)
+    ids_to_idents = get_ids_to_idents(task_constants.ALL_TASKS)
+    task_ident_list = [ids_to_idents[tid] for tid in task_constants.ERRORED_IDS]
 
     download_files(c_client, task_ident_list, relative_path)
+    # audit_json = audit_tasks(c_client, task_ident_list)
 
 
 if __name__ == '__main__':
