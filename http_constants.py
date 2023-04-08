@@ -1,21 +1,3 @@
-cookies = {
-    'BCSSingleSignOn': '0.0.0|9.183072769.24350977',
-    'BCSTimeZone': '240',
-    'userState': 'customer=False&regDate=00010101&disableAutocomplete=False',
-    'dio': '24350977',
-    'diu': '9.183072769.24350977',
-    'dip': 'PARTITION2',
-    'dio': '24350977',
-    'diu': '9.183072769.24350977',
-    'dip': 'PARTITION2',
-    'ajs_user_id': '183072769',
-    'ajs_anonymous_id': 'a50edc99-c0e6-4ad4-acec-d7accdd8c5f6',
-    'ajs_group_id': '24350977',
-    'amplitude_idundefinedclarizen.com': 'eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==',
-    '_ga': 'GA1.2.1855612015.1680629097',
-    'SVzx10': 'ef6e68592972ca2f14f538948e161c22',
-}
-
 headers = {
     'authority': 'app2.clarizen.com',
     'accept': '*/*',

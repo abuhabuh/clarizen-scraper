@@ -1,22 +1,9 @@
 # How to use this script:
 
-* Use Google Chrome
-* Login to Clarizen manually
-  * Log into Clarizen https://app2.clarizen.com/Clarizen/Pages/Service/Login.aspx?ReturnUrl=%2fClarizen%2fTask%2f16972537857
-* Get the cookies you need for this script
-  * On the Clarizen webpage in the Chrome browser, right click and select "inspect"
-  * A side bar should appear with lot of info
-  * Click "Network" on the top menu of the side bar (after "Elements", "Console", etc.)
-  * A few rows below, select the "Fetch/XHR" option (besides the "All" option)
-  * On the Clarizen page, click the Tasks icon (on the left vertical menu)
-  * You'll see a lot of records populate in the "inspect" sidebar.
-  * Select one that starts with "Ajax?..."
-  * Right click -> Copy -> Copy as cURL
-  * Go to https://curlconverter.com/ and make sure Python is selected
-  * Paste the cURL command, you'll see translated Python code
-  * In the cookies dictionary, copy the bottom five rows. They should match the ones in the get_cookies function below
-  * Paste them into the cookies dictionary in the code below (overwriting what's there)
-* Run the script: python3 clarizen_scraper.py
+* Set environment variables in your terminal
+  * `export CLARIZEN_USERNAME='user-name'`
+  * `export CLARIZEN_PASSWORD='password'`
+* Run the script: `python3 clarizen_scraper.py`
 
 # How files are stored:
 - Files are stored in the same directory as the script in a "downloads" folder

@@ -9,39 +9,28 @@ APPROVED_TASK_IDS	task_constants.py	/^APPROVED_TASK_IDS = ['10006975425', '10013
 ActionChains	clarizen_scraper.py	/^from selenium.webdriver.common.action_chains import ActionChains$/;"	i
 BeautifulSoup	clarizen_scraper.py	/^from bs4 import BeautifulSoup$/;"	i
 By	clarizen_scraper.py	/^from selenium.webdriver.common.by import By$/;"	i
+ClarizenClient	clarizen_scraper.py	/^class ClarizenClient:$/;"	c
 Keys	clarizen_scraper.py	/^from selenium.webdriver.common.keys import Keys$/;"	i
 Options	clarizen_scraper.py	/^from selenium.webdriver.chrome.options import Options$/;"	i
 ThreadPoolExecutor	clarizen_scraper.py	/^from concurrent.futures import ThreadPoolExecutor$/;"	i
-cookies	clarizen_scraper.py	/^        cookies=get_cookies(),$/;"	v
-cookies	http_constants.py	/^cookies = {$/;"	v
-data	clarizen_scraper.py	/^        data=data)$/;"	v
-data_ident_list	clarizen_scraper.py	/^    data_ident_list = []$/;"	v
-doc_info_list	clarizen_scraper.py	/^    doc_info_list = []$/;"	v
-fetch_file	clarizen_scraper.py	/^def fetch_file(info_dict):$/;"	f
-fetch_files_list	clarizen_scraper.py	/^def fetch_files_list(task_ident):$/;"	f
-fetch_task_page	clarizen_scraper.py	/^def fetch_task_page(page_number):$/;"	f
-file_name	clarizen_scraper.py	/^            file_name = row.td.nextSibling.div.span.nextSibling.a.text$/;"	v
-file_rows	clarizen_scraper.py	/^    file_rows = soup.div.div.div.nextSibling.div.div.nextSibling.nextSibling.div.div.div.div.table.find_all('tr')$/;"	v
-filter_approved_only	clarizen_scraper.py	/^def filter_approved_only(all_tasks):$/;"	f
-get_all_task_idents	clarizen_scraper.py	/^def get_all_task_idents():$/;"	f
-get_cookies	clarizen_scraper.py	/^def get_cookies():$/;"	f
-get_params	clarizen_scraper.py	/^def get_params():$/;"	f
-headers	clarizen_scraper.py	/^        headers=http_constants.headers,$/;"	v
+__init__	clarizen_scraper.py	/^    def __init__(self, cookies):$/;"	m	class:ClarizenClient
+fetch_file	clarizen_scraper.py	/^    def fetch_file(self, info_dict):$/;"	m	class:ClarizenClient
+fetch_files_list	clarizen_scraper.py	/^    def fetch_files_list(self, task_ident):$/;"	m	class:ClarizenClient
+fetch_task_page	clarizen_scraper.py	/^    def fetch_task_page(self, page_number):$/;"	m	class:ClarizenClient
+filter_approved_only	clarizen_scraper.py	/^    def filter_approved_only(self, all_tasks):$/;"	m	class:ClarizenClient
+get_all_task_idents	clarizen_scraper.py	/^    def get_all_task_idents(self):$/;"	m	class:ClarizenClient
+get_params	clarizen_scraper.py	/^    def get_params(self):$/;"	m	class:ClarizenClient
 headers	http_constants.py	/^headers = {$/;"	v
 http_constants	clarizen_scraper.py	/^import http_constants$/;"	i
-is_task_approved	clarizen_scraper.py	/^def is_task_approved(task_id):$/;"	f
+is_task_approved	clarizen_scraper.py	/^    def is_task_approved(self, task_id):$/;"	m	class:ClarizenClient
+login_and_get_cookies	clarizen_scraper.py	/^def login_and_get_cookies():$/;"	f
 os	clarizen_scraper.py	/^import os$/;"	i
-params	clarizen_scraper.py	/^        params=get_params(), cookies=get_cookies(), headers=http_constants.headers,$/;"	v
-params	clarizen_scraper.py	/^        params=get_params(),$/;"	v
 pdb	clarizen_scraper.py	/^import pdb$/;"	i
 request	clarizen_scraper.py	/^import urllib.request$/;"	i
 requests	clarizen_scraper.py	/^import requests$/;"	i
-response	clarizen_scraper.py	/^    response = requests.post($/;"	v
-run_downloads	clarizen_scraper.py	/^def run_downloads(download_list):$/;"	f
+run_downloads	clarizen_scraper.py	/^    def run_downloads(self, download_list):$/;"	m	class:ClarizenClient
 run_main	clarizen_scraper.py	/^def run_main():$/;"	f
-soup	clarizen_scraper.py	/^    soup = BeautifulSoup(response.json()['results'][0]['html'], "html.parser")$/;"	v
 task_constants	clarizen_scraper.py	/^import task_constants$/;"	i
-task_el_list	clarizen_scraper.py	/^    task_el_list = soup.table.find_all('tr')[0].find_all('tr')$/;"	v
 time	clarizen_scraper.py	/^import time$/;"	i
 urllib	clarizen_scraper.py	/^import urllib.request$/;"	i
 webdriver	clarizen_scraper.py	/^from selenium import webdriver$/;"	i
