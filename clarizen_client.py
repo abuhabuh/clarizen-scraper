@@ -2,6 +2,10 @@ import os
 import time
 from concurrent.futures import ThreadPoolExecutor
 
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import urllib.request
 import requests
 from bs4 import BeautifulSoup
@@ -11,8 +15,49 @@ import http_constants
 
 class ClarizenClient:
 
-    def __init__(self, cookies):
-        self._cookies = cookies
+    def __init__(self):
+        return
+
+    def login(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        browser = webdriver.Chrome(options=chrome_options)
+
+        login_url = "https://app2.clarizen.com/Clarizen/Pages/Service/Login.aspx"
+        # The user credentials
+        username = os.environ["CLARIZEN_USERNAME"]
+        password = os.environ["CLARIZEN_PASSWORD"]
+
+        # Navigate to the login page
+        browser.get(login_url)
+
+        # Find the username and password input fields
+        username_field = browser.find_element(By.NAME, "txtLogin")
+        password_field = browser.find_element(By.NAME, "txtPassword")
+
+        # Set the values of the input fields to the user credentials
+        username_field.send_keys(username)
+        password_field.send_keys(password)
+
+        # Submit the login form
+        password_field.send_keys(Keys.RETURN)
+
+        # Wait for the login to complete
+        time.sleep(2)
+
+        # Check if the login was successful
+        all_cookies = {}
+        if "Partner Home Marketing" in browser.page_source:
+            clist = browser.get_cookies()
+            for cdict in clist:
+                all_cookies[cdict['name']] = cdict['value']
+
+        if not all_cookies:
+            raise Exception('ClarizenClient - no cookies. Login probably failed')
+        else:
+            print('Got cookies. Login successful.')
+
+        self._cookies = all_cookies
 
     def get_params(self):
         return {
@@ -45,7 +90,7 @@ class ClarizenClient:
         folder = info_dict['folder']
 
         response = requests.get(
-            'https://app2.clarizen.com/Clarizen/Pages/FileHandling/OpenDocument.aspx?po=34.570811649.24350977',
+            f'https://app2.clarizen.com/Clarizen/Pages/FileHandling/OpenDocument.aspx?po={document_id}',
             params=self.get_params(),
             cookies=self._cookies,
             headers=http_constants.headers,

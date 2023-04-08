@@ -1,3 +1,4 @@
+.DS_Store
 zztmp
 tags
 *.tar.gz
@@ -5,3 +6,4 @@ tags
 __pycache__
 downloads
 downloads2
+downloads-new
