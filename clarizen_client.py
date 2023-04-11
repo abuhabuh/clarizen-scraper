@@ -19,6 +19,8 @@ class ClarizenClient:
         return
 
     def login(self):
+        print('Trying to login')
+
         chrome_options = Options()
         chrome_options.add_argument("--headless")
         browser = webdriver.Chrome(options=chrome_options)
@@ -140,10 +142,10 @@ class ClarizenClient:
             if len(tasks) > 0:
                 got_more_tasks = True
                 all_tasks += tasks
-            print(f'fetched {page_number} of tasks')
+            print(f'Fetched {page_number} of tasks')
 
             page_number += 1
-        print(all_tasks)
+        return all_tasks
 
 
     def fetch_task_page(self, page_number):

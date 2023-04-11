@@ -1,7 +1,10 @@
 """
 """
-import pdb
+import ast
+import csv
+import json
 import os
+import pdb
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -76,21 +79,46 @@ def download_files(c_client, task_ident_list, download_folder):
     print(f'**** Errored task ids: {errored_task_ids}')
 
 
-def audit_tasks(c_client, task_ident_list):
-    """Audit tasks via Clarizen
+def audit_tasks_with_file(c_client, task_ident_list):
+    """Audit tasks via Clarizen and print out csv file
 
     For each task:
     * Mark if approved
     * If approved, get file list and check if in downloads folder
     * If in downloads folder, get md5 sum
     * If approved files missing, mark as missing
+
+    list of dicts with task and file info
+    [{
+        'task_id': task_id,
+        'file_name': file_name,
+        'doc_id': doc_id
+    }]
     """
-    audit_json = {}
 
+    with open('audit_output_file.csv', 'w') as fp:
+        writer = csv.DictWriter(fp, fieldnames=['task_id', 'file_name', 'doc_id'])
+        writer.writeheader()
 
+        task_counter = 1
+        for task_ident in task_ident_list:
 
+            task_id = task_ident.split('.')[1]
+            task_files_info_list = c_client.fetch_files_list(task_ident)
 
-    return audit_json
+            for file_info in task_files_info_list:
+                file_name = file_info['file_name']
+                doc_id = file_info['doc_id']
+                writer.writerow({
+                    'task_id': task_id,
+                    'file_name': file_name,
+                    'doc_id': doc_id
+                })
+
+            # login periodically
+            if task_counter % 500 == 0:
+                c_client.login()
+            task_counter += 1
 
 
 def get_ids_to_idents(task_idents):
@@ -128,18 +156,16 @@ def run_main():
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-    print('Trying to login')
+    task_ident_list = []
+    with open('task_idents.txt', 'r') as fp:
+        idents_str = fp.read()
+        task_ident_list = ast.literal_eval(idents_str)
+
     c_client = ClarizenClient()
     c_client.login()
 
-    task_ident_list = sorted(task_constants.ALL_TASKS)
-    """
-    ids_to_idents = get_ids_to_idents(task_constants.ALL_TASKS)
-    task_ident_list = [ids_to_idents[tid] for tid in task_constants.ERRORED_IDS]
-    """
-
-    download_files(c_client, task_ident_list, relative_path)
-    # audit_json = audit_tasks(c_client, task_ident_list)
+    # download_files(c_client, task_ident_list, relative_path)
+    audit_tasks_with_file(c_client, task_ident_list)
 
 
 if __name__ == '__main__':
