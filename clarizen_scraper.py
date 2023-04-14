@@ -95,29 +95,49 @@ def audit_tasks_with_file(c_client, task_ident_list):
         'doc_id': doc_id
     }]
     """
+    checked_files = {}
+    audit_fname = 'audit_output_file.csv'
+    audit_fields = ['is_approved', 'task_ident', 'task_id', 'file_name', 'doc_id']
 
-    with open('audit_output_file.csv', 'w') as fp:
-        writer = csv.DictWriter(fp, fieldnames=['task_id', 'file_name', 'doc_id'])
-        writer.writeheader()
+    with open(audit_fname, 'r+') as fp:
+
+        reader = csv.DictReader(fp, fieldnames=audit_fields)
+        last_task_id = ''
+        for row in reader:
+            last_task_id = row['task_id']
+            checked_files[last_task_id] = True
+        # Remove last record from dictionary because there may have been an exception going half way through the task
+        checked_files.pop(last_task_id)
+
+    print(f'num_tasks already done: {len(checked_files)}')
+
+    with open(audit_fname, 'a+') as fp:
+        writer = csv.DictWriter(fp, fieldnames=audit_fields)
+        if not checked_files:
+            writer.writeheader()
 
         task_counter = 1
         for task_ident in task_ident_list:
-
             task_id = task_ident.split('.')[1]
-            task_files_info_list = c_client.fetch_files_list(task_ident)
 
-            for file_info in task_files_info_list:
-                file_name = file_info['file_name']
-                doc_id = file_info['doc_id']
-                writer.writerow({
-                    'task_id': task_id,
-                    'file_name': file_name,
-                    'doc_id': doc_id
-                })
+            if task_id not in checked_files:
+                task_files_info_list = c_client.fetch_files_list(task_ident)
+                is_approved = c_client.is_task_approved(task_id)
 
-            # login periodically
-            if task_counter % 500 == 0:
-                c_client.login()
+                for file_info in task_files_info_list:
+                    file_name = file_info['file_name']
+                    doc_id = file_info['doc_id']
+                    writer.writerow({
+                        'is_approved': str(is_approved),
+                        'task_ident': task_ident,
+                        'task_id': task_id,
+                        'file_name': file_name,
+                        'doc_id': doc_id
+                    })
+
+                # login periodically
+                if task_counter % 500 == 0:
+                    c_client.login()
             task_counter += 1
 
 
